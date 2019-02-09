@@ -132,7 +132,7 @@ https://streamingv2.shoutcast.com/Alpha989
 #EXTINF:0, group-title="NEWS",Alpha 96.5 - Thessaloniki
 http://46.4.121.138:8888/;
 #EXTINF:0, group-title="NEWS",ANT1 Patras - Patra
-http://163.172.35.62:1053
+http://ant1patra.live24.gr:80/ant1patra1053
 #EXTINF:-0, group-title="NEWS",APT FM 90.6 - Athens
 http://live.webhosting4u.gr:8023/stream
 #EXTINF:-0, group-title="NEWS",EPA 1 105.8 - Athens
