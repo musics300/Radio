@@ -33,6 +33,8 @@ http://stream.radiojar.com:80/2uh8e4akb
 http://stream.kiisextra.gr:48500/kiis.mp3
 #EXTINF:-0, group-title="MUSIC",Kiss FM 92.9 - Athens
 http://kissfm.live24.gr/kiss2111
+#EXTINF:-0, group-title="MUSIC",Kiss FM 101.5 - Mitilini
+http://eco.onestreaming.com:8550/;
 #EXTINF:0, group-title="MUSIC",KLIK FM 106.2 - Rhodes
 http://www.111.gr:8042
 #EXTINF:0, group-title="MUSIC",Love Radio 97.5 - Athens
