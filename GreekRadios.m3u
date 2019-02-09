@@ -199,6 +199,8 @@ http://eco.onestreaming.com:8418/;stream.mp3
 http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:0, group-title="SPORTS",Metropolis 95.5 Thessaloniki
 http://193.104.200.33:80/metropolis955
+#EXTINF:0, group-title="SPORTS",Pressing 90.1 Larisα
+http://s4.onweb.gr:8840/listen.pls
 #EXTINF:0, group-title="SPORTS",Sport FM 94.6 - Athens
 http://sportfm.live24.gr/sportfm7712
 #EXTINF:0, group-title="SPORTS",Sport 24 103.3 - Athens
