@@ -53,6 +53,8 @@ http://144.76.92.208:7878
 http://37.59.14.77:8078
 #EXTINF:0, group-title="MUSIC",Pepper 96.6 - Athens
 http://pepper966.live24.gr/pepperorigin
+#EXTINF:0, group-title="MUSIC",Plus Radio 102.6 - Thessaloniki
+http://eco.onestreaming.com:8039
 #EXTINF:0, group-title="MUSIC",Radio1 88 FM - Rhodes
 http://www.111.gr:8000
 #EXTINF:0, group-title="MUSIC",Radio Galaxy 99 - Rhodes
@@ -61,8 +63,12 @@ http://solid1.streamupsolutions.com:11074/stream
 http://radiogold.live24.gr:80/radiogold
 #EXTINF:0, group-title="MUSIC",Radio Nikita 98.6 - Rhodes
 http://radionikita.novahost.bg:8000/;stream.mp3
+#EXTINF:0, group-title="MUSIC",Rainbow 89 FM - Thessaloniki
+http://62.212.82.197:8000/;
 #EXTINF:0, group-title="MUSIC",RED 96.3 - Athens
 https://ample-06.radiojar.com/redfm963
+#EXTINF:0, group-title="MUSIC",Republic 103 - Thessaloniki
+http://s10.voscast.com:9878
 #EXTINF:0, group-title="MUSIC",Rock FM 96.9 - Athens
 http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8
 #EXTINF:0, group-title="MUSIC",Rock Radio 104.7 - Thessaloniki
@@ -107,6 +113,8 @@ http://netradio.live24.gr:80/melodia
 http://stream.radiojar.com/menta.aac?1457987195
 #EXTINF:0, group-title="GREEK MUSIC",Mousikos 98.6 - Athens
 http://netradio.live24.gr:80/mousikos986
+#EXTINF:0, group-title="GREEK MUSIC",PANORAMA 98.4 FM - Thessaloniki
+http://netradio.live24.gr/panorama984
 #EXTINF:0, group-title="GREEK MUSIC",Party FM 104 - Athens
 http://178.21.169.118:8006/stream
 #EXTINF:0, group-title="GREEK MUSIC",Radio 1 99 FM - Thessaloniki
