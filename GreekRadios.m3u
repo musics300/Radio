@@ -139,6 +139,8 @@ http://37.187.136.85:9327/stream
 http://radio.sierafm.gr:55469/Sierafm
 #EXTINF:0, group-title="GREEK MUSIC",Sfera 102.2 - Athens
 http://sfera.live24.gr/sfera4132
+#EXTINF:0, group-title="GREEK MUSIC",Sok FM 104.8 - Halkida
+http://sokfm.lalala.gr:8000/;listen.pls'
 #EXTINF:0, group-title="NEWS",Athina 98.4 - Athens
 http://athina984.live24.gr/athina984
 #EXTINF:0, group-title="NEWS",Alpha 98.9 - Athens
