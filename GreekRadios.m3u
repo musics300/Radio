@@ -109,6 +109,8 @@ http://sc5.greekstream.net:5000/;
 http://s3.onweb.gr:8878
 #EXTINF:0, group-title="GREEK MUSIC",Lamsi FM 92.3 - Athens
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+#EXTINF:0, group-title="GREEK MUSIC",Legend 88.6 FM - Athens
+http://ample-03.radiojar.com/gphtvb4env5tv
 #EXTINF:0, group-title="GREEK MUSIC",Love Radio 97.5 - Athens
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:0, group-title="GREEK MUSIC",Melody FM 104.5 - Rhodes
@@ -173,8 +175,6 @@ http://178.62.176.153:8000/stream
 http://stream.radiojar.com:80/cdk030dsvv5tv
 #EXTINF:0, group-title="NEWS",KOSMOS 93.6 - Athens
 http://radiostreaming.ert.gr/ert-kosmos
-#EXTINF:0, group-title="NEWS",News 24/7 88.6 - Athens
-http://ample-03.radiojar.com/gphtvb4env5tv
 #EXTINF:0, group-title="NEWS",Notos News 97.8 - Rhodes
 http://37.187.136.85:9331/stream
 #EXTINF:0, group-title="NEWS",Palmos 99.5 - Rhodes
