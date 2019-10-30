@@ -155,7 +155,7 @@ http://ant1patra.live24.gr:80/ant1patra1053
 http://live.webhosting4u.gr:8023/stream
 #EXTINF:-0, group-title="NEWS",EPA 1 105.8 - Athens
 http://radiostreaming.ert.gr/ert-proto
-#EXTINF:-0 group-title="NEWS" tvg-name="EPA 2 103.7 - Athens" tvg-logo="http://greektv.pbworks.com/w/file/90441827/Deftero.png",EPA 2 103.7 - Athens
+#EXTINF:-0 group-title="NEWS" tvg-logo="http://greektv.pbworks.com/w/file/90441827/Deftero.png",EPA 2 103.7 - Athens
 http://radiostreaming.ert.gr/ert-deftero
 #EXTINF:0, group-title="NEWS",EPA 3 90.9 - Athens
 http://radiostreaming.ert.gr/ert-trito
