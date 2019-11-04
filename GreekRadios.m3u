@@ -49,22 +49,22 @@ http://ample-02.radiojar.com/k0hua7u1yk5tv
 http://176.9.123.4:11036/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nostos 100.6 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/43d052f9-62c3-4f26-8d41-ba96a60566bb.png",Nostos 100.6 FM - Αθήνα
 http://144.76.92.208:7878
-#EXTINF:0, group-title="MUSIC",NRG Power Radio 89.5 - Kozani
-http://37.59.14.77:8078
-#EXTINF:0, group-title="MUSIC",OFF Radio - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="NRG Power Radio 89.5 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ca14a0cb-4ecf-401c-9cb5-c48b7582d2e2.gif",NRG Power Radio 89.5 - Κοζάνη
+http://i4.streams.ovh:8078
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="OFF Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/2042d47e-7003-42c5-bbde-8b9507ec4b54.png",OFF Radio - Θεσσαλονίκη
 http://46.28.53.118:7062/stream
-#EXTINF:0, group-title="MUSIC",Pepper 96.6 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Pepper 96.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/pepper/pepper-115x115.jpg",Pepper 96.6 - Αθήνα
 http://pepper966.live24.gr/pepperorigin
-#EXTINF:0, group-title="MUSIC",Plus Radio 102.6 - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Plus Radio 102.6 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/612fea9f-cad5-42c8-a333-fddc6ab84613.png",Plus Radio 102.6 - Θεσσαλονίκη
 http://eco.onestreaming.com:8039
-#EXTINF:0, group-title="MUSIC",Radio1 88 FM - Rhodes
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio1 88 FM - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/69c6844c-cf3c-4dea-a8d3-e2e0cab2fbb8.png",Radio1 88 FM - Ρόδος
 http://www.111.gr:8000
-#EXTINF:0, group-title="MUSIC",Radio Galaxy 99 - Rhodes
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Galaxy 99 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/99def176-7da3-4869-875c-35f2ea77330e.jpg",Radio Galaxy 99 - Ρόδος
 http://solid1.streamupsolutions.com:11074/stream
-#EXTINF:0, group-title="MUSIC",Radio Gold - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
 http://radiogold.live24.gr:80/radiogold
-#EXTINF:0, group-title="MUSIC",Radio Nikita 98.6 - Rhodes
-http://radionikita.novahost.bg:8000/;stream.mp3
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Nikita 98.6 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/39aa90e0-eca7-4046-aa95-885a4e159456.jpg",Radio Nikita 98.6 - Ρόδος
+http://176.9.78.226:30122/stream
 #EXTINF:0, group-title="MUSIC",Rainbow 89 FM - Thessaloniki
 http://62.212.82.197:8000/;
 #EXTINF:0, group-title="MUSIC",RED 96.3 - Athens
