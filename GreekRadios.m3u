@@ -31,9 +31,9 @@ http://37.59.32.115:6224/stream
 http://stream.radiojar.com:80/2uh8e4akb
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="KIIS EXTRA 92.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/599d2473-4197-4693-90c0-5a13ba0cc7a5.png",KIIS EXTRA 92.2 - Πάτρα
 http://stream.kiisextra.gr:48500/kiis.mp3
-#EXTINF:0, group-title="MUSIC" tvg-logo="http://www.kiss929.gr/sites/all/themes/kiss/images/logo_new_big.png",Kiss FM 92.9 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Kiss FM 92.9 - Αθήνα" tvg-logo="http://www.kiss929.gr/sites/all/themes/kiss/images/logo_new_big.png",Kiss FM 92.9 - Αθήνα
 http://kissfm.live24.gr:80/kissfmathens
-#EXTINF:-0, group-title="MUSIC",Kiss FM 101.5 - Mitilini
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Kiss FM 101.5 - Μυτιλήνη" tvg-logo="http://resources.live24.gr/resources/images/stations/8cd4db5a-7b9f-4a9c-b6a9-b6dd2bf1ebe0.png",Kiss FM 101.5 - Μυτιλήνη
 http://eco.onestreaming.com:8550/;
 ##EXTINF:0, group-title="MUSIC" tvg-logo="http://resources.live24.gr/resources/images/stations/7344f620-f463-4e71-bda2-90f33050007d.jpg",KLIK FM 106.2 - Rhodes
 http://www.111.gr:8042
