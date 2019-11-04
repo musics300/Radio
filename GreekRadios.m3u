@@ -31,7 +31,7 @@ http://37.59.32.115:6224/stream
 http://stream.radiojar.com:80/2uh8e4akb
 #EXTINF:-0, group-title="MUSIC",KIIS EXTRA 92.2 - Patra
 http://stream.kiisextra.gr:48500/kiis.mp3
-#EXTINF:-0, group-title="MUSIC",Kiss FM 92.9 - Athens
+#EXTINF:0, group-title="MUSIC" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/kiss929.png",Kiss FM 92.9 - Athens
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-0, group-title="MUSIC",Kiss FM 101.5 - Mitilini
 http://eco.onestreaming.com:8550/;
