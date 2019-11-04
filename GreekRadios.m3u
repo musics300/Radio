@@ -19,9 +19,9 @@ http://37.59.32.115:6168/stream
 http://37.187.79.56:80/proxy/lmaren00?mp=/
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Galaxy FM 92 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/galaxy/logo-156x75.png",Galaxy FM 92 - Αθήνα
 http://galaxy.live24.gr/galaxy9292
-#EXTINF:-0, group-title="MUSIC",Galaxy FM 106.1 - Patra
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Galaxy FM 106.1 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/92d80f85-9d0c-42a1-b31b-2c8a50d46305.png",Galaxy FM 106.1 - Πάτρα
 http://5.9.17.142:8032/;stream.mp3
-#EXTINF:-0, group-title="MUSIC",HiT 88.9 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="HiT 88.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6b663430-c361-43aa-a7fa-0bfb862512d4.jpg",HiT 88.9 - Αθήνα
 http://64.150.176.42:8146/;stream
 #EXTINF:0, group-title="MUSIC",Hot 104.6 - Athens
 http://hotfm.live24.gr:80/hotfm
