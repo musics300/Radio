@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="1055 Rock 105.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/200d45ee-9c83-47b1-ac59-3aeeafbb7e41.jpg",1055 Rock 105.5 - Θεσσαλονίκη
 http://radio.1055rock.gr:30000/1055
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens DeeJay 95.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/753b8245-44d6-4bed-bd67-43d113c70845.png",Athens DeeJay 95.2 - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens DeeJay 95.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/753b8245-44d6-4bed-bd67-43d113c70845.png",Athens DeeJay 95.2 - Αθήνα
 http://94.23.0.114:41972
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens Voice 102.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/611cb7f6-dd39-4e32-8204-0c6df17a6105.png",Athens Voice 102.5 - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens Voice 102.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/611cb7f6-dd39-4e32-8204-0c6df17a6105.png",Athens Voice 102.5 - Αθήνα
 http://nitro.live24.gr/nitro4555
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Best Radio 92.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/best/best926.jpg",Best Radio 92.6 - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Best Radio 92.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/best/best926.jpg",Best Radio 92.6 - Αθήνα
 http://best.live24.gr/best1222
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Diva 91.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg",Diva 91.6 - Κοζάνη
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Diva 91.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg",Diva 91.6 - Κοζάνη
 http://176.31.120.166:6404
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
 http://ample-02.radiojar.com/cthtwxk5yvduv
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="EN LEYKO 87.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e4abbfeb-d333-48ce-911e-753154aa7bd8.jpg",EN LEYKO 87.7 - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="EN LEYKO 87.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e4abbfeb-d333-48ce-911e-753154aa7bd8.jpg",EN LEYKO 87.7 - Αθήνα
 http://ample-06.radiojar.com/enlefko877
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="FLY 104 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",FLY 104 - Θεσσαλονίκη
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="FLY 104 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",FLY 104 - Θεσσαλονίκη
 http://37.59.32.115:6168/stream
 #EXTINF:-0, group-title="MUSIC",Fresh 92.9 - Kozani
 http://37.187.79.56:80/proxy/lmaren00?mp=/
