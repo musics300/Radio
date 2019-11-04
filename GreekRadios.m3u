@@ -23,13 +23,13 @@ http://galaxy.live24.gr/galaxy9292
 http://5.9.17.142:8032/;stream.mp3
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="HiT 88.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6b663430-c361-43aa-a7fa-0bfb862512d4.jpg",HiT 88.9 - Αθήνα
 http://64.150.176.42:8146/;stream
-#EXTINF:0, group-title="MUSIC",Hot 104.6 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Hot 104.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/efb80f12-1f46-491d-90f3-b8f1bcdaaed4.jpg",Hot 104.6 - Αθήνα
 http://hotfm.live24.gr:80/hotfm
-#EXTINF:-0, group-title="MUSIC",Imagine 89.7 FM - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Imagine 89.7 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/4ed22174-ab19-4a89-906c-ac11a53143f5.bmp",Imagine 89.7 FM - Θεσσαλονίκη
 http://37.59.32.115:6224/stream
-#EXTINF:-0, group-title="MUSIC",Join Radio - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Join Radio - Αθήνα" tvg-logo="https://www.joinradio.gr/wp-content/uploads/2018/11/Join_Radio_Site_Icon-1.png",Join Radio - Αθήνα
 http://stream.radiojar.com:80/2uh8e4akb
-#EXTINF:-0, group-title="MUSIC",KIIS EXTRA 92.2 - Patra
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="KIIS EXTRA 92.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/599d2473-4197-4693-90c0-5a13ba0cc7a5.png",KIIS EXTRA 92.2 - Πάτρα
 http://stream.kiisextra.gr:48500/kiis.mp3
 #EXTINF:0, group-title="MUSIC" tvg-logo="http://www.kiss929.gr/sites/all/themes/kiss/images/logo_new_big.png",Kiss FM 92.9 - Athens
 http://kissfm.live24.gr:80/kissfmathens
