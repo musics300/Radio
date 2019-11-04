@@ -5,11 +5,11 @@ http://radio.1055rock.gr:30000/1055
 http://94.23.0.114:41972
 #EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens Voice 102.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/611cb7f6-dd39-4e32-8204-0c6df17a6105.png",Athens Voice 102.5 - Αθήνα
 http://nitro.live24.gr/nitro4555
-#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-logo="http://live24.gr/resrc/styles/custom-popups/best/best926.jpg",Best Radio 92.6 - Αθήνα
+#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Best Radio 92.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/best/best926.jpg",Best Radio 92.6 - Αθήνα
 http://best.live24.gr/best1222
-#EXTINF:-0, group-title="MUSIC",Diva 91.6 - Kozani
+#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Diva 91.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg",Diva 91.6 - Κοζάνη
 http://176.31.120.166:6404
-#EXTINF:-0, group-title="MUSIC",Easy 97.2 - Athens
+#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
 http://ample-02.radiojar.com/cthtwxk5yvduv
 #EXTINF:0, group-title="MUSIC",EN LEYKO 87.7 - Athens
 http://ample-06.radiojar.com/enlefko877
