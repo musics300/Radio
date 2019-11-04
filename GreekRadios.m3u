@@ -213,7 +213,7 @@ http://stream.radiojar.com/kokkino-ath.mp3
 http://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:0, group-title="SPORTS",Arena FM 89.4 - Thessaloniki
 http://eco.onestreaming.com:8418/;stream.mp3
-#EXTINF:-0 group-title="SPORTS" tvg-name="Era Sport 101.8 - Athens" tvg-logo="http://greektv.pbworks.com/w/file/97228515/ERASPORT.png",Era Sport 101.8 - Athens
+#EXTINF:0, group-title="SPORTS" tvg-name="Era Sport 101.8 - Athens" tvg-logo="http://greektv.pbworks.com/w/file/97228515/ERASPORT.png",Era Sport 101.8 - Athens
 http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:0, group-title="SPORTS",Metropolis 95.5 Thessaloniki
 http://s6.voscast.com:10478/;stream.mp3
