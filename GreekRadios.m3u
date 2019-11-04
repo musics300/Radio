@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0, group-title="MUSIC",1055 Rock 105.5 - Thessaloniki
+#EXTINF:-0, group-title="MUSIC" tvg-logo="http://resources.live24.gr/resources/images/stations/200d45ee-9c83-47b1-ac59-3aeeafbb7e41.jpg",1055 Rock 105.5 - Thessaloniki
 http://radio.1055rock.gr:30000/1055
 #EXTINF:-0, group-title="MUSIC",Athens DeeJay 95.2 - Athens
 http://94.23.0.114:41972
