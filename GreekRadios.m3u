@@ -35,7 +35,7 @@ http://stream.kiisextra.gr:48500/kiis.mp3
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-0, group-title="MUSIC",Kiss FM 101.5 - Mitilini
 http://eco.onestreaming.com:8550/;
-#EXTINF:0, group-title="MUSIC",KLIK FM 106.2 - Rhodes
+##EXTINF:0, group-title="MUSIC" tvg-logo="http://resources.live24.gr/resources/images/stations/7344f620-f463-4e71-bda2-90f33050007d.jpg",KLIK FM 106.2 - Rhodes
 http://www.111.gr:8042
 #EXTINF:0, group-title="MUSIC",Love Radio 97.5 - Athens
 http://loveradio.live24.gr/loveradio-1000
