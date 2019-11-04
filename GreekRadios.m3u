@@ -11,9 +11,9 @@ http://best.live24.gr/best1222
 http://176.31.120.166:6404
 #EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
 http://ample-02.radiojar.com/cthtwxk5yvduv
-#EXTINF:0, group-title="MUSIC",EN LEYKO 87.7 - Athens
+#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="EN LEYKO 87.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e4abbfeb-d333-48ce-911e-753154aa7bd8.jpg",EN LEYKO 87.7 - Αθήνα
 http://ample-06.radiojar.com/enlefko877
-#EXTINF:0, group-title="MUSIC",FLY 104 - Thessaloniki
+#EXTINF:-0, group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="FLY 104 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",FLY 104 - Θεσσαλονίκη
 http://37.59.32.115:6168/stream
 #EXTINF:-0, group-title="MUSIC",Fresh 92.9 - Kozani
 http://37.187.79.56:80/proxy/lmaren00?mp=/
