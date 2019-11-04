@@ -35,19 +35,19 @@ http://stream.kiisextra.gr:48500/kiis.mp3
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Kiss FM 101.5 - Μυτιλήνη" tvg-logo="http://resources.live24.gr/resources/images/stations/8cd4db5a-7b9f-4a9c-b6a9-b6dd2bf1ebe0.png",Kiss FM 101.5 - Μυτιλήνη
 http://eco.onestreaming.com:8550/;
-##EXTINF:0, group-title="MUSIC" tvg-logo="http://resources.live24.gr/resources/images/stations/7344f620-f463-4e71-bda2-90f33050007d.jpg",KLIK FM 106.2 - Rhodes
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="KLIK FM 106.2 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/7344f620-f463-4e71-bda2-90f33050007d.jpg",KLIK FM 106.2 - Ρόδος
 http://www.111.gr:8042
-#EXTINF:0, group-title="MUSIC",Love Radio 97.5 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="http://www.loveradio.gr/images/logos/logored.png",Love Radio 97.5 - Αθήνα
 http://loveradio.live24.gr/loveradio-1000
-#EXTINF:0, group-title="MUSIC",MAD Radio 106.2 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="MAD Radio 106.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/85be2a5c-a969-4afd-8e5e-e9d431004bed.png",MAD Radio 106.2 - Αθήνα
 http://mediaserver.mad.tv:8000/stream
-#EXTINF:0, group-title="MUSIC",More 103 - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="More 103 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/1577ea9e-abe6-4d5c-9ef6-428cd43c0a66.png",More 103 - Θεσσαλονίκη
 http://eco.onestreaming.com:8041
-#EXTINF:0, group-title="MUSIC",Music 89.2 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="http://www.music892.gr/wp-content/uploads/2017/09/LOGOMUSIC-small.png",Music 89.2 - Αθήνα
 http://ample-02.radiojar.com/k0hua7u1yk5tv
-#EXTINF:-0, group-title="MUSIC",Nitro 102 - Rhodes
-http://46.4.75.197:11036/stream
-#EXTINF:0, group-title="MUSIC",Nostos 100.6 FM - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nitro 102 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/006f5b35-21fc-44cf-91cb-c263a71ac3f1.png",Nitro 102 - Ρόδος
+http://176.9.123.4:11036/stream
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nostos 100.6 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/43d052f9-62c3-4f26-8d41-ba96a60566bb.png",Nostos 100.6 FM - Αθήνα
 http://144.76.92.208:7878
 #EXTINF:0, group-title="MUSIC",NRG Power Radio 89.5 - Kozani
 http://37.59.14.77:8078
