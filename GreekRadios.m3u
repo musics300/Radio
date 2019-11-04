@@ -87,15 +87,15 @@ http://5.9.17.142:8024
 http://www.youfmradio.gr:8880/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="ZOO RADIO 90.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/884a2e1f-06fe-46d4-a7d0-5b980fce950f.jpg",ZOO RADIO 90.8 - Θεσσαλονίκη
 http://s10.voscast.com:9940/;
-#EXTINF:0, group-title="GREEK MUSIC",Best FM 103.1 - Rhodes
-http://netradio.live24.gr:80/bestradiorho2
-#EXTINF:0, group-title="GREEK MUSIC",Black Man 103.1 - Athens
-http://213.239.206.179:8184/;.mp3
-#EXTINF:-0, group-title="GREEK MUSIC",Derti FM 104.9 - Rhodes
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Best FM 103.1 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/9e8d707f-9378-413c-b746-c450e047a1a6.jpg",Best FM 103.1 - Ρόδος
+http://159.69.75.8:9990/;
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Black Man 103.1 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6998638f-3c87-47a9-80b8-daefa3c43d84.png",Black Man 103.1 - Αθήνα
+http://alpha-stream.eu:9326/;.mp3'
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Derti FM 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/9af2fcd4-5536-4d91-af75-67589362bfa2.png",Derti FM 104.9 - Ρόδος
 http://live3.istoikona.com:8017
-#EXTINF:0, group-title="GREEK MUSIC",Derti Radio - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Derti Radio - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/derti/images/logo-new.png",Derti Radio - Αθήνα
 http://derti.live24.gr/derty1000
-#EXTINF:0, group-title="GREEK MUSIC",DIESI 101.3 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Δίεση 101.3 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/diesi/logo-120x70.png",Δίεση 101.3 - Αθήνα
 http://diesi.live24.gr/diesi1013
 #EXTINF:-0, group-title="GREEK MUSIC",Dromos FM 89.8 - Athens
 http://dromos898.live24.gr/dromos898
