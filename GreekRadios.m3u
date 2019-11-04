@@ -65,27 +65,27 @@ http://solid1.streamupsolutions.com:11074/stream
 http://radiogold.live24.gr:80/radiogold
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Nikita 98.6 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/39aa90e0-eca7-4046-aa95-885a4e159456.jpg",Radio Nikita 98.6 - Ρόδος
 http://176.9.78.226:30122/stream
-#EXTINF:0, group-title="MUSIC",Rainbow 89 FM - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rainbow 89 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/6a29d644-eaca-4282-89b1-468d4504cf65.png",Rainbow 89 FM - Θεσσαλονίκη
 http://62.212.82.197:8000/;
-#EXTINF:0, group-title="MUSIC",RED 96.3 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RED 96.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f5c67a61-a790-4005-9cbe-f365509670fe.png",RED 96.3 - Αθήνα
 https://ample-06.radiojar.com/redfm963
-#EXTINF:0, group-title="MUSIC",Republic 103 - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Republic 103 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/b6a5c2b1-db2d-434b-ad7f-99ca0fa29823.png",Republic 103 - Θεσσαλονίκη
 http://s10.voscast.com:9878
-#EXTINF:0, group-title="MUSIC",Rock FM 96.9 - Athens
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock FM 96.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fee95347-f0eb-4299-9edd-9d9b42ee23f6.png",Rock FM 96.9 - Αθήνα
 http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8
-#EXTINF:0, group-title="MUSIC",Rock Radio 104.7 - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock Radio 104.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cbdce89d-dc5d-45cd-9b97-6ef014c134e2.png",Rock Radio 104.7 - Θεσσαλονίκη
 http://rockradio.gr:1111/;
-#EXTINF:0, group-title="MUSIC",RSO 91.7 - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RSO 91.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/33705328-6c67-48e2-ba75-a385a317c175.png",RSO 91.7 - Θεσσαλονίκη
 http://tachyon.shoutca.st:8594
-#EXTINF:0, group-title="MUSIC",Siera FM 105.3 - Kozani
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Siera FM 105.3 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/26ba748b-9fa2-402e-ae46-0f8b523b39f5.png",Siera FM 105.3 - Κοζάνη
 http://radio.sierafm.gr:55469/Sierafm
-#EXTINF:0, group-title="MUSIC",V 91.1 FM - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="V 91.1 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c50c1f31-a8e6-4f86-8602-ad2211478791.png",V 91.1 FM - Θεσσαλονίκη
 http://176.9.184.196:8177/stream
-#EXTINF:-0, group-title="MUSIC",Yes Radio 91.2 - Patra
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/88abcc46-05f7-4692-9cc0-50e14b761fee.png",Yes Radio 91.2 - Πάτρα
 http://5.9.17.142:8024
-#EXTINF:0, group-title="MUSIC",You FM 100.1 - Patra
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/2eab7eda-5095-4900-a14c-a97e3ef84d15.png",You FM 100.1 - Πάτρα
 http://www.youfmradio.gr:8880/stream
-#EXTINF:-0, group-title="MUSIC",ZOO RADIO 90.8 - Thessaloniki
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="ZOO RADIO 90.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/884a2e1f-06fe-46d4-a7d0-5b980fce950f.jpg",ZOO RADIO 90.8 - Θεσσαλονίκη
 http://s10.voscast.com:9940/;
 #EXTINF:0, group-title="GREEK MUSIC",Best FM 103.1 - Rhodes
 http://netradio.live24.gr:80/bestradiorho2
