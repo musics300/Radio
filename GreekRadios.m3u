@@ -97,11 +97,11 @@ http://live3.istoikona.com:8017
 http://derti.live24.gr/derty1000
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Δίεση 101.3 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/diesi/logo-120x70.png",Δίεση 101.3 - Αθήνα
 http://diesi.live24.gr/diesi1013
-#EXTINF:-0, group-title="GREEK MUSIC",Dromos FM 89.8 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Δρόμος 89.8 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/dromos/images/logo.png",Δρόμος 89.8 - Αθήνα
 http://dromos898.live24.gr/dromos898
-#EXTINF:0, group-title="GREEK MUSIC",Ellinikos FM 93.2 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ελληνικός FM 93.2 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/ellinikos/logo.jpg",Ελληνικός FM 93.2 - Αθήνα
 http://orange.live24.gr/orange9320
-#EXTINF:0, group-title="GREEK MUSIC",Kalamaria FM 101.7 - Thessaloniki
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Καλαμαριά FM 101.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/373a1cc9-b111-48f1-a4b7-c97124ad8b04.png",Καλαμαριά FM 101.7 - Θεσσαλονίκη
 http://www.kalamariafm.gr/kalamariafm_mp3.asx
 #EXTINF:0, group-title="GREEK MUSIC",Cosmoradio 95.1 - Thessaloniki
 http://sc5.greekstream.net:5000/;
