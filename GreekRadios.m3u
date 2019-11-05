@@ -119,27 +119,27 @@ http://netradio.live24.gr:80/melodia
 http://stream.radiojar.com/menta.aac?1457987195
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μουσικός 98.6 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3X4VNYIT7hX_owAW1B7JjKBvrjKOiUmBB6kr-K_SzHIVWS_YKAg&s",Μουσικός 98.6 - Αθήνα
 http://netradio.live24.gr:80/mousikos986
-#EXTINF:0, group-title="GREEK MUSIC",PANORAMA 98.4 FM - Thessaloniki
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Πανόραμα 98.4 FM - Θεσσαλονίκη" tvg-logo="http://live24.gr/resrc/styles/custom-popups/panorama/images/logo.jpg",Πανόραμα 98.4 FM - Θεσσαλονίκη
 http://netradio.live24.gr/panorama984
-#EXTINF:0, group-title="GREEK MUSIC",Party FM 104 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Party FM 104 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5fe9c5d4-e937-4423-95d5-ffa7af87e905.jpg",Party FM 104 - Αθήνα
 https://radio.streamings.gr:9006/stream?1572449650982
-#EXTINF:0, group-title="GREEK MUSIC",Radio 1 99 FM - Thessaloniki
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο 1 99 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/22ca2fd7-6978-425c-96af-0345d0c6515a.png",Ράδιο 1 99 FM - Θεσσαλονίκη
 http://62.212.82.208:8000/;
-#EXTINF:0, group-title="GREEK MUSIC",Radio Archagelos 94.1 - Rhodes
-http://eco.onestreaming.com:8536/;listen.pls
-#EXTINF:0, group-title="GREEK MUSIC",Radio Lihnari 91.4 - Rhodes
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο Αρχάγγελος 94.1 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d8b5ba1e-c19d-4ab0-b5a5-7bc8c1c7d64f.jpg",Ράδιο Αρχάγγελος 94.1 - Ρόδος
+http://eco.onestreaming.com:8536/;listen.pls'
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο Λυχνάρι 91.4 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/67df9a42-33f9-4ce0-842a-d39310db1a9c.jpg",Ράδιο Λυχνάρι 91.4 - Ρόδος
 http://eco.onestreaming.com:8037
-#EXTINF:0, group-title="GREEK MUSIC",Power 92.6 FM - Kozani
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Power 92.6 FM - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/4841f343-37c7-4de0-8026-7778255ba97d.png",Power 92.6 FM - Κοζάνη
 http://radio.power926.gr:55479/Powerfm
-#EXTINF:0, group-title="GREEK MUSIC",Rythmos 94.9 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 94.9 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός 94.9 - Αθήνα
 http://ample-05.radiojar.com/g4tyehk5yvduv
-#EXTINF:0, group-title="GREEK MUSIC",Rodos FM 90.7 - Rhodes
-http://37.187.136.85:9327/stream
-#EXTINF:0, group-title="GREEK MUSIC",Siera FM 105.3 - Kozani
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρόδος FM 90.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/952ef0d2-ed2f-4a60-af70-b36bf860726c.jpg",Ρόδος FM 90.7 - Ρόδος
+http://i.streams.ovh:9327/stream
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Siera FM 105.3 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/26ba748b-9fa2-402e-ae46-0f8b523b39f5.png",Siera FM 105.3 - Κοζάνη
 http://radio.sierafm.gr:55469/Sierafm
-#EXTINF:0, group-title="GREEK MUSIC",Sfera 102.2 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Sfera 102.2 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/sfera/images/logo.png",Sfera 102.2 - Αθήνα
 http://sfera.live24.gr/sfera4132
-#EXTINF:0, group-title="GREEK MUSIC",Sok FM 104.8 - Halkida
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Σοκ FM 104.8 - Χαλκίδα" tvg-logo="http://resources.live24.gr/resources/images/stations/e6998f51-f775-4a5b-99a5-0406d855024e.png",Σοκ FM 104.8 - Χαλκίδα
 http://sokfm.lalala.gr:8000/;listen.pls'
 #EXTINF:0, group-title="NEWS",Athina 98.4 - Athens
 http://athina984.live24.gr/athina984
