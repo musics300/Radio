@@ -103,23 +103,21 @@ http://dromos898.live24.gr/dromos898
 http://orange.live24.gr/orange9320
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Καλαμαριά FM 101.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/373a1cc9-b111-48f1-a4b7-c97124ad8b04.png",Καλαμαριά FM 101.7 - Θεσσαλονίκη
 http://www.kalamariafm.gr/kalamariafm_mp3.asx
-#EXTINF:0, group-title="GREEK MUSIC",Cosmoradio 95.1 - Thessaloniki
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Κοσμοράδιο 95.1 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/e3cb9aad-de0a-46f5-997b-b4f33a91ab73.png",Κοσμοράδιο 95.1 - Θεσσαλονίκη
 http://sc5.greekstream.net:5000/;
-#EXTINF:0, group-title="GREEK MUSIC",Kriti FM 87.5 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Κρήτη FM 87.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fbaef4b4-78f4-4cba-b934-2c55e8e3ecd6.jpg",Κρήτη FM 87.5 - Αθήνα
 http://s3.onweb.gr:8878
-#EXTINF:0, group-title="GREEK MUSIC",Lamsi FM 92.3 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Λάμψη FM 92.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/250e8f83-68ab-41cb-b951-ae937111d673.png",Λάμψη FM 92.3 - Αθήνα
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
-#EXTINF:0, group-title="GREEK MUSIC",Legend 88.6 FM - Athens
-http://ample-03.radiojar.com/gphtvb4env5tv
-#EXTINF:0, group-title="GREEK MUSIC",Love Radio 97.5 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="http://www.loveradio.gr/images/logos/logored.png",Love Radio 97.5 - Αθήνα
 http://loveradio.live24.gr/loveradio-1000
-#EXTINF:0, group-title="GREEK MUSIC",Melody FM 104.5 - Rhodes
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Melody FM 104.5 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/f2e7cf72-3910-4e95-a9f1-46bacaceaaf0.png",Melody FM 104.5 - Ρόδος
 http://cast.radiohost.ovh:9080
-#EXTINF:0, group-title="GREEK MUSIC",Melodia 99.2 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία FM 99.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/b527c83e-c3fc-4de6-86f2-860254db65fd.png",Μελωδία FM 99.2 - Αθήνα
 http://netradio.live24.gr:80/melodia
-#EXTINF:0, group-title="GREEK MUSIC",Menta 88 FM - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μέντα 88 FM - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/menta/menta.png",Μέντα 88 FM - Αθήνα
 http://stream.radiojar.com/menta.aac?1457987195
-#EXTINF:0, group-title="GREEK MUSIC",Mousikos 98.6 - Athens
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μουσικός 98.6 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3X4VNYIT7hX_owAW1B7JjKBvrjKOiUmBB6kr-K_SzHIVWS_YKAg&s",Μουσικός 98.6 - Αθήνα
 http://netradio.live24.gr:80/mousikos986
 #EXTINF:0, group-title="GREEK MUSIC",PANORAMA 98.4 FM - Thessaloniki
 http://netradio.live24.gr/panorama984
