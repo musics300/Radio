@@ -141,19 +141,19 @@ http://radio.sierafm.gr:55469/Sierafm
 http://sfera.live24.gr/sfera4132
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Σοκ FM 104.8 - Χαλκίδα" tvg-logo="http://resources.live24.gr/resources/images/stations/e6998f51-f775-4a5b-99a5-0406d855024e.png",Σοκ FM 104.8 - Χαλκίδα
 http://sokfm.lalala.gr:8000/;listen.pls'
-#EXTINF:0, group-title="NEWS",Athina 98.4 - Athens
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Αθήνα 98.4 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/26b249fc-9d6e-4300-85d2-904348c77770.png",Αθήνα 98.4 - Αθήνα
 http://athina984.live24.gr/athina984
-#EXTINF:0, group-title="NEWS",Alpha 98.9 - Athens
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 98.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5bda5e63-60e6-4740-b11f-bf38bea7cb4e.png",Alpha 98.9 - Αθήνα
 https://streamingv2.shoutcast.com/Alpha989
-#EXTINF:0, group-title="NEWS",Alpha 96.5 - Thessaloniki
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 96.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c0be7e8c-6831-4d2a-873e-e846abd72468.jpg",Alpha 96.5 - Θεσσαλονίκη
 http://46.4.121.138:8888/;
-#EXTINF:0, group-title="NEWS",ANT1 Patras - Patra
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ANT1 Πάτρας - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/18ff2dc5-f297-4a04-a3fd-e2217a20708c.png",ANT1 Πάτρας - Πάτρα
 http://ant1patra.live24.gr:80/ant1patra1053
-#EXTINF:-0, group-title="NEWS",APT FM 90.6 - Athens
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΑΡΤ FM 90.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/db0877cd-8c08-46b4-9bda-8234f3e2481f.png",ΑΡΤ FM 90.6 - Αθήνα
 http://live.webhosting4u.gr:8023/stream
-#EXTINF:-0, group-title="NEWS",EPA 1 105.8 - Athens
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 1 105.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/35fd37f4-fbe3-492f-a1ae-e3f1bdf46a00.png",ΕΡΑ 1 105.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-proto
-#EXTINF:-0 group-title="NEWS" tvg-logo="http://greektv.pbworks.com/w/file/fetch/97228515/ERASPORT.png",EPA 2 103.7 - Athens
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 2 103.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/8ad58f66-5fa0-4053-84fa-debe26f7b07d.jpg",ΕΡΑ 2 103.7 - Αθήνα
 http://radiostreaming.ert.gr/ert-deftero
 #EXTINF:0, group-title="NEWS",EPA 3 90.9 - Athens
 http://radiostreaming.ert.gr/ert-trito
