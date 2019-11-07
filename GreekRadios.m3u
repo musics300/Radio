@@ -155,19 +155,19 @@ http://live.webhosting4u.gr:8023/stream
 http://radiostreaming.ert.gr/ert-proto
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 2 103.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/8ad58f66-5fa0-4053-84fa-debe26f7b07d.jpg",ΕΡΑ 2 103.7 - Αθήνα
 http://radiostreaming.ert.gr/ert-deftero
-#EXTINF:0, group-title="NEWS",EPA 3 90.9 - Athens
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 3 90.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/7603b6bf-ad5f-49f8-9824-ab0863bc340b.jpg",ΕΡΑ 3 90.9 - Αθήνα
 http://radiostreaming.ert.gr/ert-trito
-#EXTINF:0, group-title="NEWS",ERT3 958 - Thessaloniki
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΤ3 958 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/fce3850c-2881-4c1d-87e0-dc3e0e72888e.gif",ΕΡΤ3 958 - Θεσσαλονίκη
 http://radiostreaming.ert.gr/ert-958fm
-#EXTINF:0, group-title="NEWS",ERT3 102 FM - Thessaloniki
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΤ3 102 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/bad38e6b-2915-4080-be5d-a69bbad536c1.png",ΕΡΤ3 102 FM - Θεσσαλονίκη
 https://radiostreaming.ert.gr/ert-102fm
-#EXTINF:0, group-title="NEWS",EPA Kozanis 100.2 - Kozani
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ Κοζάνης 100.2 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd0693d8-3991-41ac-9f27-53c1514017aa.png",ΕΡΑ Κοζάνης 100.2 - Κοζάνη
 http://radiostreaming.ert.gr:80/ert-kozani
-#EXTINF:0, group-title="NEWS",EPA Notiou Aigaiou 93.1 - Rhodes
-http://radiostreaming.ert.gr:80/ert-rodos
-#EXTINF:0, group-title="NEWS",EPA Patrwn 92.5 - Patra
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ Νοτίου Αιγαίου 93.1 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/a014e2fe-d9ef-4b25-8e06-25e03af8220b.png",ΕΡΑ Νοτίου Αιγαίου 93.1 - Ρόδος
+https://radiostreaming.ert.gr/ert-rodos
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ Πατρών 92.5 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/ab119283-0144-48e1-a0b3-67b5dfe38593.png",ΕΡΑ Πατρών 92.5 - Πάτρα
 http://radiostreaming.ert.gr/ert-patra
-#EXTINF:0, group-title="NEWS",FM 100 - Thessaloniki
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="FM 100 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/9582c378-68ab-4e3b-90ff-5dc90315eccc.png",FM 100 - Θεσσαλονίκη
 http://178.62.176.153:8000/stream
 #EXTINF:0, group-title="NEWS",Thema 104.6 - Athens
 http://stream.radiojar.com:80/cdk030dsvv5tv
