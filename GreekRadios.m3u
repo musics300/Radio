@@ -69,8 +69,8 @@ http://176.9.78.226:30122/stream
 http://62.212.82.197:8000/;
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RED 96.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f5c67a61-a790-4005-9cbe-f365509670fe.png",RED 96.3 - Αθήνα
 https://ample-06.radiojar.com/redfm963
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Republic 103 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/b6a5c2b1-db2d-434b-ad7f-99ca0fa29823.png",Republic 103 - Θεσσαλονίκη
-http://s10.voscast.com:9878
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
+http://173.249.6.18:1030/;?
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock FM 96.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fee95347-f0eb-4299-9edd-9d9b42ee23f6.png",Rock FM 96.9 - Αθήνα
 http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock Radio 104.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cbdce89d-dc5d-45cd-9b97-6ef014c134e2.png",Rock Radio 104.7 - Θεσσαλονίκη
@@ -143,6 +143,8 @@ http://radio.sierafm.gr:55469/Sierafm
 http://sfera.live24.gr/sfera4132
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Σοκ FM 104.8 - Χαλκίδα" tvg-logo="http://resources.live24.gr/resources/images/stations/e6998f51-f775-4a5b-99a5-0406d855024e.png",Σοκ FM 104.8 - Χαλκίδα
 http://sokfm.lalala.gr:8000/;listen.pls'
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Τρανζίστορ 100.3 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/a3c860a2-db55-4b58-9b0d-9c3a24c8997f.jpg",Τρανζίστορ 100.3 - Θεσσαλονίκη
+http://eu10.fastcast4u.com:7100/;?type=http&nocache=17
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Αθήνα 98.4 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/26b249fc-9d6e-4300-85d2-904348c77770.png",Αθήνα 98.4 - Αθήνα
 http://athina984.live24.gr/athina984
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 98.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5bda5e63-60e6-4740-b11f-bf38bea7cb4e.png",Alpha 98.9 - Αθήνα
@@ -241,3 +243,11 @@ http://136.243.61.157:8310
 http://198.101.15.90:8095/1;audio.mp3?hash=1497350999502
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
 http://s1.fastcast4u.com:9326/
+#EXTINF:-0 group-title="ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΑ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
+http://ample-02.radiojar.com/cthtwxk5yvduv
+#EXTINF:-0 group-title="ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΑ" tvg-name="Real Christmas - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-_A3uNnudDmMHzalxhVgVNJ3R_wefTVqa-_8Pb8GzkTf6Wud8g&s",Real Christmas - Αθήνα
+http://realxmas.live24.gr/realxmas
+
+
+
+
