@@ -179,6 +179,8 @@ http://stream.radiojar.com:80/cdk030dsvv5tv
 http://radiostreaming.ert.gr/ert-kosmos
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 - Ρόδος
 http://i.streams.ovh:9331/stream
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 Web TV - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 Web TV - Ρόδος
+https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Παλμός 99.5 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/2d8ab631-3cbf-4c7a-9234-2762c89a247c.jpg",Παλμός 99.5 - Ρόδος
 http://netradio.live24.gr:80/palmos995-rho
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Παραπολιτικά FM 90.1 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/0163c59b-62d4-46e4-93e7-71916c770e91.png",Παραπολιτικά FM 90.1 - Αθήνα
@@ -195,7 +197,7 @@ http://eu7.fastcast4u.com:6156/;
 http://realfm2.live24.gr:80/realfm
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 1 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",ΡΙΚ 1 - Κύπρος
 http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
-#EXTINF:0, group-title="NEWS",PIK 2 - Cyprus
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 2 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/2054fe2b-f404-4231-a92a-5eae903ea035.png",ΡΙΚ 2 - Κύπρος
 http://r1.cloudskep.com/cybcr/cybc2/icecast.audio
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 3 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/2054fe2b-f404-4231-a92a-5eae903ea035.png",ΡΙΚ 3 - Κύπρος
 http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
@@ -211,7 +213,6 @@ http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
 http://stream.radiojar.com:80/a1n0yftmb.mp3
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Στο Κόκκινο 105.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/92f8a7b8-ce30-4602-aa02-c47e4f53e356.jpg",Στο Κόκκινο 105.5 - Αθήνα
 http://stream.radiojar.com/kokkino-ath.mp3
-
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Φωνή της Ελλάδας - Αθήνα" tvg-logo="http://greektv.pbworks.com/w/file/fetch/97228788/Voice_Of_Greece.png",Φωνή της Ελλάδας - Αθήνα
 http://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Arena FM 89.4 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/66288659-2079-4e76-b541-12702c0324b1.png",Arena FM 89.4 - Θεσσαλονίκη
