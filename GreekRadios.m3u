@@ -33,8 +33,6 @@ http://stream.radiojar.com:80/2uh8e4akb
 http://stream.kiisextra.gr:48500/kiis.mp3
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Kiss FM 92.9 - Αθήνα" tvg-logo="http://www.kiss929.gr/sites/all/themes/kiss/images/logo_new_big.png",Kiss FM 92.9 - Αθήνα
 http://kissfm.live24.gr:80/kissfmathens
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Kiss FM 101.5 - Μυτιλήνη" tvg-logo="http://resources.live24.gr/resources/images/stations/8cd4db5a-7b9f-4a9c-b6a9-b6dd2bf1ebe0.png",Kiss FM 101.5 - Μυτιλήνη
-http://eco.onestreaming.com:8550/;
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="KLIK FM 106.2 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/7344f620-f463-4e71-bda2-90f33050007d.jpg",KLIK FM 106.2 - Ρόδος
 http://www.111.gr:8042
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="http://www.loveradio.gr/images/logos/logored.png",Love Radio 97.5 - Αθήνα
@@ -79,6 +77,8 @@ http://rockradio.gr:1111/;
 http://tachyon.shoutca.st:8594
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Siera FM 105.3 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/26ba748b-9fa2-402e-ae46-0f8b523b39f5.png",Siera FM 105.3 - Κοζάνη
 http://radio.sierafm.gr:55469/Sierafm
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="SLAM 101.5 - Μυτιλήνη" tvg-logo="http://slam.gr/Images/SLAM_MAINLOGO.jpg",SLAM 101.5 - Μυτιλήνη
+http://eco.onestreaming.com:8550/;
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="V 91.1 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c50c1f31-a8e6-4f86-8602-ad2211478791.png",V 91.1 FM - Θεσσαλονίκη
 http://176.9.184.196:8177/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/88abcc46-05f7-4692-9cc0-50e14b761fee.png",Yes Radio 91.2 - Πάτρα
