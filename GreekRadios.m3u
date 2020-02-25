@@ -245,10 +245,8 @@ http://136.243.61.157:8310
 http://198.101.15.90:8095/1;audio.mp3?hash=1497350999502
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
 http://s1.fastcast4u.com:9326/
-#EXTINF:-0 group-title="ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΑ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
-http://ample-02.radiojar.com/cthtwxk5yvduv
-#EXTINF:-0 group-title="ΧΡΙΣΤΟΥΓΕΝΝΙΑΤΙΚΑ" tvg-name="Real Christmas - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-_A3uNnudDmMHzalxhVgVNJ3R_wefTVqa-_8Pb8GzkTf6Wud8g&s",Real Christmas - Αθήνα
-http://realxmas.live24.gr/realxmas
+
+
 
 
 
