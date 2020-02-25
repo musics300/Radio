@@ -35,7 +35,7 @@ http://stream.kiisextra.gr:48500/kiis.mp3
 http://kissfm.live24.gr:80/kissfmathens
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="KLIK FM 106.2 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/7344f620-f463-4e71-bda2-90f33050007d.jpg",KLIK FM 106.2 - Ρόδος
 http://www.111.gr:8042
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="http://www.loveradio.gr/images/logos/logored.png",Love Radio 97.5 - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="https://www.loveradio.gr/images/love_logos.png",Love Radio 97.5 - Αθήνα
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="MAD Radio 106.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/85be2a5c-a969-4afd-8e5e-e9d431004bed.png",MAD Radio 106.2 - Αθήνα
 http://mediaserver.mad.tv:8000/stream
@@ -109,7 +109,7 @@ http://sc5.greekstream.net:5000/;
 http://s3.onweb.gr:8878
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Λάμψη FM 92.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/250e8f83-68ab-41cb-b951-ae937111d673.png",Λάμψη FM 92.3 - Αθήνα
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="http://www.loveradio.gr/images/logos/logored.png",Love Radio 97.5 - Αθήνα
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="https://www.loveradio.gr/images/love_logos.png",Love Radio 97.5 - Αθήνα
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Melody FM 104.5 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/f2e7cf72-3910-4e95-a9f1-46bacaceaaf0.png",Melody FM 104.5 - Ρόδος
 http://cast.radiohost.ovh:9080
