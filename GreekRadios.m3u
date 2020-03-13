@@ -244,7 +244,7 @@ http://136.243.61.157:8310
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός 90 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/52f9f1d7-baf5-4332-8dad-53778e8a4d58.png",Χριστιανισμός 90 - Ρόδος
 http://198.101.15.90:8095/1;audio.mp3?hash=1497350999502
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
-http://s1.fastcast4u.com:9326/
+http://eu1.fastcast4u.com:9326/stream
 
 
 
