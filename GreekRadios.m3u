@@ -245,8 +245,10 @@ http://136.243.61.157:8310
 http://198.101.15.90:8095/1;audio.mp3?hash=1497350999502
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
 http://eu1.fastcast4u.com:9326/stream
-
-
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="101.7 WSFM" tvg-logo="https://www.wsfm.com.au/wp-content/uploads/sites/11/2019/05/WSFM_3D_logo.png",101.7 WSFM
+https://ihrhlsweb.arn.com.au/au_002/playlist.m3u8?listeningSessionID=5dfb8b531c6ffa3c_7782946_dtyAkYYk__0000000Uv8l&downloadSessionID=0&clienttype=web&iheart=true
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="2CH Easy 1170" tvg-logo="http://www.2ch.com.au/wp-content/uploads/2ch-logo-trans-on-white.png",2CH Easy 1170
+http://shoutcast.2gb.com/2ch
 
 
 
