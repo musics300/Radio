@@ -245,10 +245,12 @@ http://136.243.61.157:8310
 http://198.101.15.90:8095/1;audio.mp3?hash=1497350999502
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
 http://eu1.fastcast4u.com:9326/stream
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio
-https://streams.radio.co/s8a6d959b1/listen
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="80sMania Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",80sMania Radio
+http://151.80.44.127:8048/;
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="80s Radio" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/61441728_2425118601049440_2527548555313283072_n.png?_nc_cat=106&_nc_sid=7aed08&_nc_eui2=AeFe1N27gNV49GbCamLJzicTHZPmqQT_3Z62Op1tWpkCs9RFvGGNC70Ox-Hu5U6m281x-fMKmUICJV_FOPFp3E3p5iTH8wH0CfOShYqxcYBpgQ&_nc_ohc=iAhRdJX0HDYAX-NVUZO&_nc_ht=scontent.fath2-1.fna&oh=ef677285e7b3c9ddd1a6ddc428f19018&oe=5EAD58D8",80s Radio
 https://radio.streamings.gr:9083/stream?fbclid=IwAR25nxRdppxpaH796Q2c2WiS6EwcnvmJoEV-nJ5w5Eb_P4x7xAWnnbUkrfU&1585823891195
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio
+https://streams.radio.co/s8a6d959b1/listen
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="101.7 WSFM" tvg-logo="https://www.wsfm.com.au/wp-content/uploads/sites/11/2019/05/WSFM_3D_logo.png",101.7 WSFM
 https://ihrhlsweb.arn.com.au/au_002/playlist.m3u8?
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="2CH Easy 1170" tvg-logo="http://www.2ch.com.au/wp-content/uploads/2ch-logo-trans-on-white.png",2CH Easy 1170
