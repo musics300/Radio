@@ -29,8 +29,6 @@ http://37.59.32.115:6224/stream
 http://stream.kiisextra.gr:48500/kiis.mp3
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Kiss FM 92.9 - Αθήνα" tvg-logo="http://www.kiss929.gr/sites/all/themes/kiss/images/logo_new_big.png",Kiss FM 92.9 - Αθήνα
 http://kissfm.live24.gr:80/kissfmathens
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="KLIK FM 106.2 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/7344f620-f463-4e71-bda2-90f33050007d.jpg",KLIK FM 106.2 - Ρόδος
-http://www.111.gr:8042
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="https://www.loveradio.gr/images/love_logos.png",Love Radio 97.5 - Αθήνα
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="MAD Radio 106.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/85be2a5c-a969-4afd-8e5e-e9d431004bed.png",MAD Radio 106.2 - Αθήνα
@@ -55,16 +53,12 @@ http://eco.onestreaming.com:8039
 http://www.111.gr:8000
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Galaxy 99 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/99def176-7da3-4869-875c-35f2ea77330e.jpg",Radio Galaxy 99 - Ρόδος
 http://solid1.streamupsolutions.com:11074/stream
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
-http://radiogold.live24.gr:80/radiogold
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Nikita 98.6 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/39aa90e0-eca7-4046-aa95-885a4e159456.jpg",Radio Nikita 98.6 - Ρόδος
 http://176.9.78.226:30122/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rainbow 89 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/6a29d644-eaca-4282-89b1-468d4504cf65.png",Rainbow 89 FM - Θεσσαλονίκη
 http://62.212.82.197:8000/;
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RED 96.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f5c67a61-a790-4005-9cbe-f365509670fe.png",RED 96.3 - Αθήνα
 http://stream.radiojar.com:80/redfm963
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
-http://173.249.6.18:1030/;?
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock FM 96.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fee95347-f0eb-4299-9edd-9d9b42ee23f6.png",Rock FM 96.9 - Αθήνα
 http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/chunks.m3u8
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock Radio 104.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cbdce89d-dc5d-45cd-9b97-6ef014c134e2.png",Rock Radio 104.7 - Θεσσαλονίκη
@@ -103,8 +97,6 @@ http://s3.onweb.gr:8878
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="https://www.loveradio.gr/images/love_logos.png",Love Radio 97.5 - Αθήνα
 http://loveradio.live24.gr/loveradio-1000
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Melody FM 104.5 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/f2e7cf72-3910-4e95-a9f1-46bacaceaaf0.png",Melody FM 104.5 - Ρόδος
-http://cast.radiohost.ovh:9080
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία FM 99.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/b527c83e-c3fc-4de6-86f2-860254db65fd.png",Μελωδία FM 99.2 - Αθήνα
 http://netradio.live24.gr:80/melodia
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/0a91a17c-bd3c-4ff6-9b9a-01d29b611b6f.png",Μελωδία Ρόδου 104.9 - Ρόδος
@@ -127,8 +119,6 @@ http://eco.onestreaming.com:8037
 http://radio.power926.gr:55479/Powerfm
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 94.9 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός 94.9 - Αθήνα
 http://ample-05.radiojar.com/g4tyehk5yvduv
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός Web Χορευτικά" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός Web Χορευτικά
-https://stream.radiojar.com/afg1g3aayvduv.mp3
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρόδος FM 90.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/952ef0d2-ed2f-4a60-af70-b36bf860726c.jpg",Ρόδος FM 90.7 - Ρόδος
 http://i.streams.ovh:9327/stream
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Siera FM 105.3 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/26ba748b-9fa2-402e-ae46-0f8b523b39f5.png",Siera FM 105.3 - Κοζάνη
@@ -261,12 +251,46 @@ http://stream1.468.gr:9300/live
 http://radio2.discomaniaradio.com:7000/live
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Greek Djs Radio Premium" tvg-logo="http://resources.live24.gr/resources/images/stations/28aa0639-9b0c-4488-a7ef-e25344ce7b94.jpg",Greek Djs Radio Premium
 http://premium.greekdjsradio.gr:8321/stream
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Join Radio" tvg-logo="https://joinradio.gr/wp-content/uploads/2019/12/joinradio-main-logo.png",Join Radio
-http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Hot FM" tvg-logo="http://resources.live24.gr/resources/images/stations/efb80f12-1f46-491d-90f3-b8f1bcdaaed4.jpg",Hot FM
 http://hotfm.live24.gr:80/hotfm
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Join Radio" tvg-logo="https://joinradio.gr/wp-content/uploads/2019/12/joinradio-main-logo.png",Join Radio
+http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Melody FM Rodos - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/f2e7cf72-3910-4e95-a9f1-46bacaceaaf0.png",Melody FM Rodos - Ρόδος
+http://cast.radiohost.ovh:9080
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Classic - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/034ea180-9c66-42bc-a7a0-e0faf3beb473.jpg",Radio1 Classic - Ρόδος
+http://www.111.gr:8066/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Dance - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/fc10dc44-da28-4cdf-abb0-39d370eb8ce0.jpg",Radio1 Dance - Ρόδος
+http://www.111.gr:8048/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Disco - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d64ccfbb-db20-484f-8ab3-4cd6e0a745da.png",Radio1 Disco - Ρόδος
+http://www.111.gr:8090/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Ελληνικός - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/826ca869-d6cf-4f59-9d31-d3948a6ce720.jpg",Radio1 Ελληνικός - Ρόδος
+http://111.gr:8084/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Golden 60s - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/48850423-9728-45e5-a00f-ddf73d500744.jpg",Radio1 Golden 60s - Ρόδος
+http://www.111.gr:8022/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Golden 80s - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/48850423-9728-45e5-a00f-ddf73d500744.jpg",Radio1 Golden 80s - Ρόδος
+http://www.111.gr:8054/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Greek Top 40 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/82827499-d012-46b2-9ee1-a999fadce733.jpg",Radio1 Greek Top 40 - Ρόδος
+http://www.111.gr:8014/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Jazz - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/4dce8235-bd9a-431d-a671-80ef3ad338a1.jpg",Radio1 Jazz - Ρόδος
+http://www.111.gr:8028/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Λαικά - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/e349b4a2-7186-436b-96f6-d8cdbce58ca1.jpg",Radio1 Λαικά - Ρόδος
+http://www.111.gr:8078/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Lounge - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/9fe488da-2125-4a3b-853d-b7c57698e3b4.jpg",Radio1 Lounge - Ρόδος
+http://www.111.gr:8006/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Rock - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d59db149-f931-4c3a-89f3-b513af496e00.jpg",Radio1 Rock - Ρόδος
+http://www.111.gr:8060/;
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
+http://radiogold.live24.gr:80/radiogold
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
+http://173.249.6.18:1030/;?
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ρυθμός Web Χορευτικά" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός Web Χορευτικά
+https://stream.radiojar.com/afg1g3aayvduv.mp3
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Σαλονικιός Ράδιο = Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο = Θεσσαλονίκη
+http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio
 https://streams.radio.co/s8a6d959b1/listen
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Thess Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/d6b15d47-660e-40e9-a9ae-fd738938ce87.png",Thess Radio - Θεσσαλονίκη
+http://noc.ezhellas.com:30570/thessradio?type=http&nocache=37038
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="101.7 WSFM" tvg-logo="https://www.wsfm.com.au/wp-content/uploads/sites/11/2019/05/WSFM_3D_logo.png",101.7 WSFM
 https://ihrhlsweb.arn.com.au/au_002/playlist.m3u8?
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="2CH Easy 1170" tvg-logo="http://www.2ch.com.au/wp-content/uploads/2ch-logo-trans-on-white.png",2CH Easy 1170
