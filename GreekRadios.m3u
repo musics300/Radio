@@ -91,8 +91,6 @@ http://s10.voscast.com:9940/;
 http://159.69.75.8:9990/;
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Black Man 103.1 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6998638f-3c87-47a9-80b8-daefa3c43d84.png",Black Man 103.1 - Αθήνα
 http://alpha-stream.eu:9326/;.mp3'
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Derti FM 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/9af2fcd4-5536-4d91-af75-67589362bfa2.png",Derti FM 104.9 - Ρόδος
-http://live3.istoikona.com:8017
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Derti Radio - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/derti/images/logo-new.png",Derti Radio - Αθήνα
 http://derti.live24.gr/derty1000
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Δίεση 101.3 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/diesi/logo-120x70.png",Δίεση 101.3 - Αθήνα
@@ -115,6 +113,8 @@ http://loveradio.live24.gr/loveradio-1000
 http://cast.radiohost.ovh:9080
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία FM 99.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/b527c83e-c3fc-4de6-86f2-860254db65fd.png",Μελωδία FM 99.2 - Αθήνα
 http://netradio.live24.gr:80/melodia
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/0a91a17c-bd3c-4ff6-9b9a-01d29b611b6f.png",Μελωδία Ρόδου 104.9 - Ρόδος
+http://live3.istoikona.com:8017
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μέντα 88 FM - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/menta/menta.png",Μέντα 88 FM - Αθήνα
 http://stream.radiojar.com/menta.aac?1457987195
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μουσικός 98.6 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3X4VNYIT7hX_owAW1B7JjKBvrjKOiUmBB6kr-K_SzHIVWS_YKAg&s",Μουσικός 98.6 - Αθήνα
@@ -288,40 +288,6 @@ http://51.15.152.81:8558/;?_=0.8490570387748548
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Radio 2ooo FM 98.5" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/25908.v5.png",Radio 2ooo FM 98.5
 http://s7.viastreaming.net:8500/;?listening-from-radio-garden=1584718561789
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Radio 2ooo FM 98.5" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/25908.v5.png",Radio 2ooo FM 98.5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
