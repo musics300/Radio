@@ -251,9 +251,9 @@ http://stream1.468.gr:9300/live
 http://radio2.discomaniaradio.com:7000/live
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Greek Djs Radio Premium" tvg-logo="http://resources.live24.gr/resources/images/stations/28aa0639-9b0c-4488-a7ef-e25344ce7b94.jpg",Greek Djs Radio Premium
 http://premium.greekdjsradio.gr:8321/stream
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Hot FM" tvg-logo="http://resources.live24.gr/resources/images/stations/efb80f12-1f46-491d-90f3-b8f1bcdaaed4.jpg",Hot FM
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Hot FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/efb80f12-1f46-491d-90f3-b8f1bcdaaed4.jpg",Hot FM - Αθήνα
 http://hotfm.live24.gr:80/hotfm
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Join Radio" tvg-logo="https://joinradio.gr/wp-content/uploads/2019/12/joinradio-main-logo.png",Join Radio
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Join Radio - Αθήνα" tvg-logo="https://joinradio.gr/wp-content/uploads/2019/12/joinradio-main-logo.png",Join Radio - Αθήνα
 http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Melody FM Rodos - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/f2e7cf72-3910-4e95-a9f1-46bacaceaaf0.png",Melody FM Rodos - Ρόδος
 http://cast.radiohost.ovh:9080
@@ -285,7 +285,7 @@ http://radiogold.live24.gr:80/radiogold
 http://173.249.6.18:1030/;?
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ρυθμός Web Χορευτικά" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός Web Χορευτικά
 https://stream.radiojar.com/afg1g3aayvduv.mp3
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Σαλονικιός Ράδιο = Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο = Θεσσαλονίκη
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Σαλονικιός Ράδιο - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο - Θεσσαλονίκη
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio
 https://streams.radio.co/s8a6d959b1/listen
