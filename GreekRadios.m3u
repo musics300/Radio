@@ -243,6 +243,8 @@ http://live.arionradio.com/arionkids
 http://mmr.yourstreaming.gr:9300/;
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Athens Party" tvg-logo="http://resources.live24.gr/resources/images/stations/0512dc28-bc89-4ee0-b272-5993c7f8a8d8.png",Athens Party
 http://ice.onestreaming.com/athensparty
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Believe Radio - Χαλκίδα" tvg-logo="http://www.blvradio.gr/wp-content/uploads/2018/12/blv-radio-logo-sidebar.png",Believe Radio - Χαλκίδα
+http://s4.onweb.gr:8484/stream.mp3
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Classic Radio Greece" tvg-logo="http://resources.live24.gr/resources/images/stations/66571b2e-aee0-423b-ac20-bd15462b0350.png",Classic Radio Greece
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Disco FM" tvg-logo="http://resources.live24.gr/resources/images/stations/6c457cf0-ce85-43a9-9a5c-834b2ccbc4de.png",Disco FM
