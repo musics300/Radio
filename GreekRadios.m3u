@@ -307,8 +307,6 @@ http://144.140.228.109:8220/mp3?listening-from-radio-garden=1584550716778
 http://listen10.as.amplifystreaming.com/radio/8000/amm_128.aac?1584551103
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="East Side Radio FM 89.7" tvg-logo="http://allinit.net.au/~albayanc/wp-content/uploads/2014/03/Albayan_Radio.png",East Side Radio FM 89.7
 http://stream.eastsidefm.org:8000/stream?listening-from-radio-garden=1584551224093
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="iYaliSai Tamil Radio" tvg-logo="http://allinit.net.au/~albayanc/wp-content/uploads/2014/03/Albayan_Radio.png",iYaliSai Tamil Radio
-https://iyalisai.radioca.st/stream
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="KIIS FM 106.5" tvg-logo="https://www.kiis1065.com.au/wp-content/themes/arn/assets/img/kiis1065_stacked.svg",KIIS FM 106.5
 https://ihrhlsweb.arn.com.au/au_007/playlist.m3u8?
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Nova 96.9" tvg-logo="http://wwwpng",Muslim CR FM 92.1
@@ -317,7 +315,6 @@ https://21423.live.streamtheworld.com/NOVA_969_AAC48.aac?dist=neweb
 http://ample-04.radiojar.com/wdc34p1r8eeuv?listening-from-radio-garden=1584718041296&rj-tok=AAABcPiXemAAVp1kfOrnOhHYdQ&rj-ttl=5
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Punto Latino Sydney" tvg-logo="http://radiopuntolatinosydney.com/images/logo3.png",Punto Latino Sydney
 http://51.15.152.81:8558/;?_=0.8490570387748548
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Radio 2ooo FM 98.5" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/25908.v5.png",Radio 2ooo FM 98.5
-http://s7.viastreaming.net:8500/;?listening-from-radio-garden=1584718561789
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Radio 2ooo FM 98.5" tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/25908.v5.png",Radio 2ooo FM 98.5
+
+
 
