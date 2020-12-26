@@ -39,8 +39,6 @@ http://mediaserver.mad.tv:8000/stream
 http://eco.onestreaming.com:8041
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="http://www.music892.gr/wp-content/uploads/2017/09/LOGOMUSIC-small.png",Music 89.2 - Αθήνα
 http://ample-02.radiojar.com/k0hua7u1yk5tv
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nitro 102 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/006f5b35-21fc-44cf-91cb-c263a71ac3f1.png",Nitro 102 - Ρόδος
-http://176.9.123.4:11036/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nostos 100.6 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/43d052f9-62c3-4f26-8d41-ba96a60566bb.png",Nostos 100.6 FM - Αθήνα
 http://144.76.92.208:7878
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="NRG Power Radio 89.5 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ca14a0cb-4ecf-401c-9cb5-c48b7582d2e2.gif",NRG Power Radio 89.5 - Κοζάνη
@@ -130,7 +128,7 @@ http://sfera.live24.gr/sfera4132
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Σοκ FM 104.8 - Χαλκίδα" tvg-logo="http://resources.live24.gr/resources/images/stations/e6998f51-f775-4a5b-99a5-0406d855024e.png",Σοκ FM 104.8 - Χαλκίδα
 http://sokfm.lalala.gr:8000/;listen.pls'
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Τρανζίστορ 100.3 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/a3c860a2-db55-4b58-9b0d-9c3a24c8997f.jpg",Τρανζίστορ 100.3 - Θεσσαλονίκη
-http://eu10.fastcast4u.com:7100/;?type=http&nocache=17
+http://netradio.live24.gr/tranzistor1003thess
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Αθήνα 98.4 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/26b249fc-9d6e-4300-85d2-904348c77770.png",Αθήνα 98.4 - Αθήνα
 http://athina984.live24.gr/athina984
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 98.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5bda5e63-60e6-4740-b11f-bf38bea7cb4e.png",Alpha 98.9 - Αθήνα
@@ -207,7 +205,9 @@ http://eco.onestreaming.com:8418/;stream.mp3
 http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Metropolis 95.5 Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/73fc95ae-ab99-4b2d-8fa3-e0310ca554dd.png",Metropolis 95.5 Θεσσαλονίκη
 http://s6.voscast.com:10478/;stream.mp3
-#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Pressing 90.1 Λάρισα" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_iyFNkw1kaS5U6dQf5igfUlNRBB0UYEYYSZg=s288-c-k-c0xffffffff-no-rj-mo",Pressing 90.1 Λάρισα
+#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Over FM 104.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/05882f35-a5d6-4b1a-8c6b-3eee44707d06.jpg",Over FM 104.9 - Αθήνα
+http://netradio.live24.gr/overfm-internet
+#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Pressing 90.1 Λάρισα" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_iyFNkw1kaS5U6dQf5igfUlNRBB0UYEYYSZg=s288-c-k-c0xffffffff-no-rj-mo",Pressing 90.1 - Λάρισα
 http://s4.onweb.gr:8840/;
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Sport FM 94.6 - Αθήνα" tvg-logo="http://www.sport-fm.gr/resrc/v4/logo-normal.png",Sport FM 94.6 - Αθήνα
 http://sportfm.live24.gr/sportfm7712
