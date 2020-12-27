@@ -193,7 +193,7 @@ http://netradio.live24.gr/skai1003
 http://37.187.136.85:9519/stream
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Sky Ρόδος 100 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/8daa170f-383f-4e38-a45a-5bd66b7b4ba1.png",Sky Ρόδος 100 - Ρόδος
 http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Στο Κόκκινο 103.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/b276d94d-f07f-4708-91ea-2a90d7bd7559.jpg",Στο Κόκκινο 103.7 - Ρόδος
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Στο Κόκκινο 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/b276d94d-f07f-4708-91ea-2a90d7bd7559.jpg",Στο Κόκκινο 103.7 - Ρόδος
 http://stream.radiojar.com:80/a1n0yftmb.mp3
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Στο Κόκκινο 105.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/92f8a7b8-ce30-4602-aa02-c47e4f53e356.jpg",Στο Κόκκινο 105.5 - Αθήνα
 http://stream.radiojar.com/kokkino-ath.mp3
@@ -250,7 +250,7 @@ http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Disco FM" tvg-logo="http://resources.live24.gr/resources/images/stations/6c457cf0-ce85-43a9-9a5c-834b2ccbc4de.png",Disco FM
 http://eco.onestreaming.com:8015/stream
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Disco Net Radio Athens" tvg-logo="http://resources.live24.gr/resources/images/stations/cde82ef1-c5e0-4b19-919a-cc2c3c2fc491.jpg",Disco Net Radio Athens
-http://stream1.468.gr:9300/live
+https://stream1.468.gr/8004/stream
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Discomania" tvg-logo="http://resources.live24.gr/resources/images/stations/4e370f00-589b-4a2f-a513-69e526b04ebb.jpg",Discomania
 http://radio2.discomaniaradio.com:7000/live
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Greek Djs Radio Premium" tvg-logo="http://resources.live24.gr/resources/images/stations/28aa0639-9b0c-4488-a7ef-e25344ce7b94.jpg",Greek Djs Radio Premium
@@ -286,7 +286,7 @@ http://www.111.gr:8060/;
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
 http://radiogold.live24.gr:80/radiogold
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
-http://173.249.6.18:1030/;?
+http://netradio.live24.gr/republicthess
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ρυθμός Web Χορευτικά" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός Web Χορευτικά
 https://stream.radiojar.com/afg1g3aayvduv.mp3
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Σαλονικιός Ράδιο - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο - Θεσσαλονίκη
