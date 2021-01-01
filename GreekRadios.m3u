@@ -53,8 +53,6 @@ http://eco.onestreaming.com:8039
 http://www.111.gr:8000
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Galaxy 99 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/99def176-7da3-4869-875c-35f2ea77330e.jpg",Radio Galaxy 99 - Ρόδος
 http://solid1.streamupsolutions.com:11074/stream
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Nikita 98.6 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/39aa90e0-eca7-4046-aa95-885a4e159456.jpg",Radio Nikita 98.6 - Ρόδος
-http://176.9.78.226:30122/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rainbow 89 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/6a29d644-eaca-4282-89b1-468d4504cf65.png",Rainbow 89 FM - Θεσσαλονίκη
 http://62.212.82.197:8000/;
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RED 96.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f5c67a61-a790-4005-9cbe-f365509670fe.png",RED 96.3 - Αθήνα
@@ -73,7 +71,7 @@ http://eco.onestreaming.com:8550/;
 http://176.9.184.196:8177/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/88abcc46-05f7-4692-9cc0-50e14b761fee.png",Yes Radio 91.2 - Πάτρα
 http://5.9.17.142:8024
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/2eab7eda-5095-4900-a14c-a97e3ef84d15.png",You FM 100.1 - Πάτρα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="You FM 100.1 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/2eab7eda-5095-4900-a14c-a97e3ef84d15.png",You FM 100.1 - Πάτρα
 http://www.youfmradio.gr:8880/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="ZOO RADIO 90.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/90ece538-7c04-4e05-819e-af886671cfef.png",ZOO RADIO 90.8 - Θεσσαλονίκη
 http://s10.voscast.com:9940/;
