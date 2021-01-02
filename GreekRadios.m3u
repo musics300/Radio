@@ -137,6 +137,8 @@ http://46.4.121.138:8888/;
 http://ant1patra.live24.gr:80/ant1patra1053
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΑΡΤ FM 90.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/db0877cd-8c08-46b4-9bda-8234f3e2481f.png",ΑΡΤ FM 90.6 - Αθήνα
 http://live.webhosting4u.gr:8023/stream
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Ελλάδα FM 94.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/c67e30a9-22a1-43fb-a168-8e94d01b7e4a.jpg",Ελλάδα FM 94.3 - Αθήνα
+https://stream.ellada943.gr:8002/;
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 1 105.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/35fd37f4-fbe3-492f-a1ae-e3f1bdf46a00.png",ΕΡΑ 1 105.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-proto
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 2 103.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/8ad58f66-5fa0-4053-84fa-debe26f7b07d.jpg",ΕΡΑ 2 103.7 - Αθήνα
