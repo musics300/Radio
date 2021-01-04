@@ -211,8 +211,6 @@ http://netradio.live24.gr/overfm-internet
 http://s4.onweb.gr:8840/;
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Sport FM 94.6 - Αθήνα" tvg-logo="http://www.sport-fm.gr/resrc/v4/logo-normal.png",Sport FM 94.6 - Αθήνα
 http://sportfm.live24.gr/sportfm7712
-#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Sport 24 103.3 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/sport24/logo-new.png",Sport 24 103.3 - Αθήνα
-http://sport24radio.live24.gr/sport24radio
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="TOP FM 102.4 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/db0c245a-d899-46cf-857b-78eba56fb794.jpg",TOP FM 102.4 - Ρόδος
 http://live3.istoikona.com:8376/
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Εκκλησία Της Ελλάδος 89.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/963bef80-b381-4de6-9612-ea3a283c64e8.jpg",Εκκλησία Της Ελλάδος 89.5 - Αθήνα
