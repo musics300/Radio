@@ -130,11 +130,11 @@ http://netradio.live24.gr/tranzistor1003thess
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Αθήνα 98.4 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/26b249fc-9d6e-4300-85d2-904348c77770.png",Αθήνα 98.4 - Αθήνα
 http://athina984.live24.gr/athina984
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 98.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5bda5e63-60e6-4740-b11f-bf38bea7cb4e.png",Alpha 98.9 - Αθήνα
-https://streamingv2.shoutcast.com/Alpha989
+https://n07.radiojar.com/xcdg6yggzfeuv?rj-ttl=5&rj-tok=AAABdtfr9qcAi6XL2aOmFvsiBA
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 96.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c0be7e8c-6831-4d2a-873e-e846abd72468.jpg",Alpha 96.5 - Θεσσαλονίκη
-http://46.4.121.138:8888/;
+http://46.4.121.138:7700/alpha
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ANT1 Πάτρας - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/18ff2dc5-f297-4a04-a3fd-e2217a20708c.png",ANT1 Πάτρας - Πάτρα
-http://ant1patra.live24.gr:80/ant1patra1053
+http://ant1patra.live24.gr/ant1patra1053
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΑΡΤ FM 90.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/db0877cd-8c08-46b4-9bda-8234f3e2481f.png",ΑΡΤ FM 90.6 - Αθήνα
 http://live.webhosting4u.gr:8023/stream
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Ελλάδα FM 94.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/c67e30a9-22a1-43fb-a168-8e94d01b7e4a.jpg",Ελλάδα FM 94.3 - Αθήνα
@@ -156,7 +156,7 @@ https://radiostreaming.ert.gr/ert-rodos
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ Πατρών 92.5 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/ab119283-0144-48e1-a0b3-67b5dfe38593.png",ΕΡΑ Πατρών 92.5 - Πάτρα
 http://radiostreaming.ert.gr/ert-patra
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="FM 100 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/9582c378-68ab-4e3b-90ff-5dc90315eccc.png",FM 100 - Θεσσαλονίκη
-http://178.62.176.153:8000/stream
+https://live.fm100.gr/shoutcast/fm100
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Θέμα 104.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/ff6bbd0d-45f8-429c-908a-95e73304ecf2.jpg",Θέμα 104.6 - Αθήνα
 http://stream.radiojar.com:80/cdk030dsvv5tv
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Κόσμος 93.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/4615448a-05c3-46e6-9575-32a859c7d122.png",Κόσμος 93.6 - Αθήνα
