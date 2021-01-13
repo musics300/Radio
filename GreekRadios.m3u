@@ -259,29 +259,9 @@ http://hotfm.live24.gr:80/hotfm
 http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Melody FM Rodos - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/f2e7cf72-3910-4e95-a9f1-46bacaceaaf0.png",Melody FM Rodos - Ρόδος
 http://cast.radiohost.ovh:9080
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Classic - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/034ea180-9c66-42bc-a7a0-e0faf3beb473.jpg",Radio1 Classic - Ρόδος
-http://www.111.gr:8066/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Dance - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/fc10dc44-da28-4cdf-abb0-39d370eb8ce0.jpg",Radio1 Dance - Ρόδος
-http://www.111.gr:8048/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Disco - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d64ccfbb-db20-484f-8ab3-4cd6e0a745da.png",Radio1 Disco - Ρόδος
-http://www.111.gr:8090/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Ελληνικός - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/826ca869-d6cf-4f59-9d31-d3948a6ce720.jpg",Radio1 Ελληνικός - Ρόδος
-http://111.gr:8084/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Golden 60s - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/48850423-9728-45e5-a00f-ddf73d500744.jpg",Radio1 Golden 60s - Ρόδος
-http://www.111.gr:8022/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Golden 80s - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/48850423-9728-45e5-a00f-ddf73d500744.jpg",Radio1 Golden 80s - Ρόδος
-http://www.111.gr:8054/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Greek Top 40 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/82827499-d012-46b2-9ee1-a999fadce733.jpg",Radio1 Greek Top 40 - Ρόδος
-http://www.111.gr:8014/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Jazz - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/4dce8235-bd9a-431d-a671-80ef3ad338a1.jpg",Radio1 Jazz - Ρόδος
-http://www.111.gr:8028/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Λαικά - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/e349b4a2-7186-436b-96f6-d8cdbce58ca1.jpg",Radio1 Λαικά - Ρόδος
-http://www.111.gr:8078/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Lounge - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/9fe488da-2125-4a3b-853d-b7c57698e3b4.jpg",Radio1 Lounge - Ρόδος
-http://www.111.gr:8006/;
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio1 Rock - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d59db149-f931-4c3a-89f3-b513af496e00.jpg",Radio1 Rock - Ρόδος
-http://www.111.gr:8060/;
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
+http://radiogold.live24.gr:80/radiogold
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ράδιο ΜέΡΑ" tvg-logo="https://mera25.gr/wp-content/uploads/2021/01/SLIDER_radio_launch-1-2-768x429.jpg",Ράδιο ΜέΡΑ
 http://radiogold.live24.gr:80/radiogold
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
 http://netradio.live24.gr/republicthess
@@ -293,26 +273,24 @@ http://streaming.radionomy.com/JamendoLounge
 https://streams.radio.co/s8a6d959b1/listen
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Thess Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/d6b15d47-660e-40e9-a9ae-fd738938ce87.png",Thess Radio - Θεσσαλονίκη
 http://noc.ezhellas.com:30570/thessradio?type=http&nocache=37038
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="101.7 WSFM - SYDNEY" tvg-logo="https://www.wsfm.com.au/wp-content/uploads/sites/11/2019/05/WSFM_3D_logo.png",101.7 WSFM - SYDNEY
-https://ihrhlsweb.arn.com.au/au_002/playlist.m3u8?
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="2CH Easy 1170 - SYDNEY" tvg-logo="http://www.2ch.com.au/wp-content/uploads/2ch-logo-trans-on-white.png",2CH Easy 1170 - SYDNEY
-http://syd2chaud-lh.akamaihd.net/i/sydneychaud_1@364807/index_56_a-b.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="2GB 873 AM - SYDNEY" tvg-logo="https://www.2gb.com/wp-content/uploads/sites/2/2017/01/top_logo.png",2GB 873 AM - SYDNEY
-https://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/index_56_a-p.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="2SM 1269 AM" tvg-logo="http://2smsupernetwork.com/wp/wp-content/uploads/2013/03/LogoA.png",2SM 1269 AM
-http://144.140.228.109:8220/mp3?listening-from-radio-garden=1584550716778
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Australian Made Music" tvg-logo="http://allinit.net.au/~albayanc/wp-content/uploads/2014/03/Albayan_Radio.png",Australian Made Music
-http://listen10.as.amplifystreaming.com/radio/8000/amm_128.aac?1584551103
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="East Side Radio FM 89.7" tvg-logo="http://allinit.net.au/~albayanc/wp-content/uploads/2014/03/Albayan_Radio.png",East Side Radio FM 89.7
-http://stream.eastsidefm.org:8000/stream?listening-from-radio-garden=1584551224093
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="KIIS FM 106.5" tvg-logo="https://www.kiis1065.com.au/wp-content/themes/arn/assets/img/kiis1065_stacked.svg",KIIS FM 106.5
-https://ihrhlsweb.arn.com.au/au_007/playlist.m3u8?
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Nova 96.9" tvg-logo="http://wwwpng",Muslim CR FM 92.1
-https://21423.live.streamtheworld.com/NOVA_969_AAC48.aac?dist=neweb
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Plastic Radio" tvg-logo="https://www.radiojar.com/content/stations/ag1zfnJhZGlvamFyY29tcjILEgpBdXRoQ2xpZW50GICAsKz6-I8LDAsSDlN0YXRpb25Qcm9maWxlGICAgICA8ogKDKIBA2Rldg/image/?resize=120x120",Plastic Radio
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="ABC Radio Sydney" tvg-logo="https://www.abc.net.au/cm/rimage/7893524-1x1-thumbnail.png?v=8",ABC Radio Sydney
+https://abcradiolivehls-lh.akamaihd.net/i/localsydney_1@327264/index_48_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Kiss FM 87.6" tvg-logo="https://kissfm.com.au/wp-content/uploads/2016/05/kiss-logo-105px.png",Kiss FM 87.6
+https://s9.nexuscast.com:9565/kissfm.aac
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Mix FM 94.5 Perth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FBr58NFwjlto65UlHSpO8rLIn_so5ZpCeg&usqp=CAU",Mix FM 94.5 Perth
+https://ais15.scahw.com.au/live/6mix_128.stream/playlist.m3u8?listeningSessionID=5fdb064b08f9665b_873535_jEy8U9B1__00000008Eki&downloadSessionID=0
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Net FM Sydney" tvg-logo="http://www.netfm.net/images/logo.png",Net FM Sydney
+http://lin2.san.fast-serv.com:6014/stream?listening-from-radio-garden=1609063427387
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Nova 96.9 Sydney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANULy9ryNajfY77LUeR8UjxHLp7ZC805s_g&usqp=CAU",Nova 96.9 Sydney
+https://23203.live.streamtheworld.com/NOVA_969_AAC48.aac?listening-from-radio-garden=1609062037827
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Plastic Radio Sydney" tvg-logo="https://i0.wp.com/plasticrecordings.com/wp-content/uploads/2020/06/plastic-recordings-logo.jpg?fit=300%2C125&ssl=1",Plastic Radio Sydney
 http://ample-04.radiojar.com/wdc34p1r8eeuv?listening-from-radio-garden=1584718041296&rj-tok=AAABcPiXemAAVp1kfOrnOhHYdQ&rj-ttl=5
-#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Punto Latino Sydney" tvg-logo="http://radiopuntolatinosydney.com/images/logo3.png",Punto Latino Sydney
-http://51.15.152.81:8558/;?_=0.8490570387748548
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="SMOOTH FM 91.5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhZT2sjX31CGDilYhTw03emtw8BYHWZQ6DQ&usqp=CAU",SMOOTH FM 91.5
+https://21413.live.streamtheworld.com/SMOOTH915_AAC48.aac?listening-from-radio-garden=1609061569107
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Starter FM Sydney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9VSDRheagwqSViJyK6TBDMV3xE8rWemBY9Q&usqp=CAU",Starter FM Sydney
+http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
+#EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
+https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
 
 
 
