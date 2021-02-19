@@ -20,7 +20,7 @@ http://178.33.135.244:3062/;
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Galaxy FM 92 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/galaxy/logo-156x75.png",Galaxy FM 92 - Αθήνα
 http://galaxy.live24.gr/galaxy9292
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Galaxy FM 106.1 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/92d80f85-9d0c-42a1-b31b-2c8a50d46305.png",Galaxy FM 106.1 - Πάτρα
-http://5.9.17.142:8032/;stream.mp3
+http://5.9.17.142:8032/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="HiT 88.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6b663430-c361-43aa-a7fa-0bfb862512d4.jpg",HiT 88.9 - Αθήνα
 http://stream.radiojar.com:80/hit889
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Home 89.1 - Χαλκίδα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ__S5LBg3BoWFMLFDy4SYEZ9pWXy-afYZ26oGoxZ8cAs4ygSB&usqp=CAU",Home 89.1 - Χαλκίδα
@@ -49,7 +49,7 @@ http://46.28.53.118:7062/stream
 http://pepper966.live24.gr/pepperorigin
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Plus Radio 102.6 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/612fea9f-cad5-42c8-a333-fddc6ab84613.png",Plus Radio 102.6 - Θεσσαλονίκη
 http://eco.onestreaming.com:8039
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio1 88 FM - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/69c6844c-cf3c-4dea-a8d3-e2e0cab2fbb8.png",Radio1 88 FM - Ρόδος
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio1 88 FM - Ρόδος" tvg-logo="http://www.radio1.gr/images/template/logo.png",Radio1 88 FM - Ρόδος
 http://www.111.gr:8000
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Galaxy 99 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/99def176-7da3-4869-875c-35f2ea77330e.jpg",Radio Galaxy 99 - Ρόδος
 http://solid1.streamupsolutions.com:11074/stream
@@ -97,7 +97,7 @@ http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία FM 99.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/b527c83e-c3fc-4de6-86f2-860254db65fd.png",Μελωδία FM 99.2 - Αθήνα
 https://stream.radiojar.com/8du64725e3quv
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/0a91a17c-bd3c-4ff6-9b9a-01d29b611b6f.png",Μελωδία Ρόδου 104.9 - Ρόδος
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 103.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/0a91a17c-bd3c-4ff6-9b9a-01d29b611b6f.png",Μελωδία Ρόδου 104.9 - Ρόδος
 http://live3.istoikona.com:8183/stream
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μέντα 88 FM - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/menta/menta.png",Μέντα 88 FM - Αθήνα
 http://stream.radiojar.com/menta.aac?1457987195
