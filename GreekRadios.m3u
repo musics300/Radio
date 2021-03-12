@@ -204,7 +204,7 @@ http://eco.onestreaming.com:8418/;stream.mp3
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="EPA σπορ 101.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f517e1da-2fc0-4452-8cd9-cb5b09fcb0ff.jpg",EPA σπορ 101.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Metropolis 95.5 Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/73fc95ae-ab99-4b2d-8fa3-e0310ca554dd.png",Metropolis 95.5 Θεσσαλονίκη
-http://s6.voscast.com:10478/;stream.mp3
+http://metropolis.live24.gr/metropolis955thess
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Over FM 104.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/05882f35-a5d6-4b1a-8c6b-3eee44707d06.jpg",Over FM 104.9 - Αθήνα
 http://netradio.live24.gr/overfm-internet
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Pressing 90.1 Λάρισα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSia7ogvekqvW-xPsdKjjeuROKe4gjsi1GHGg&usqp=CAU",Pressing 90.1 - Λάρισα
@@ -294,7 +294,7 @@ https://23203.live.streamtheworld.com/NOVA_969_AAC48.aac?listening-from-radio-ga
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Plastic Radio Sydney" tvg-logo="https://i0.wp.com/plasticrecordings.com/wp-content/uploads/2020/06/plastic-recordings-logo.jpg?fit=300%2C125&ssl=1",Plastic Radio Sydney
 http://n08.radiojar.com/wdc34p1r8eeuv.m4a?1615321111=&rj-tok=AAABeBitSR4A5OVpJNtK6m_QwA&rj-ttl=5
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="SMOOTH FM 91.5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhZT2sjX31CGDilYhTw03emtw8BYHWZQ6DQ&usqp=CAU",SMOOTH FM 91.5
-https://21413.live.streamtheworld.com/SMOOTH915_AAC48.aac?listening-from-radio-garden=1609061569107
+https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=274b246c-7940-4dd3-8831-022a94fa4130
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="Starter FM Sydney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9VSDRheagwqSViJyK6TBDMV3xE8rWemBY9Q&usqp=CAU",Starter FM Sydney
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
