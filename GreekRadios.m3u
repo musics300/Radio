@@ -105,6 +105,8 @@ http://live3.istoikona.com:8183/stream
 http://stream.radiojar.com/menta.aac?1457987195
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μουσικός 98.6 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtO6Paa-Qn0X-i7hItnzCjdHp-GC4dyPJxBg&usqp=CAU",Μουσικός 98.6 - Αθήνα
 http://netradio.live24.gr:80/mousikos986
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="My Radio 104.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6affe598-3e11-4475-ae36-937e044b3a1c.png",My Radio 104.6 - Αθήνα
+http://streaming.myradio1046.fm/myradio1046
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Πανόραμα 98.4 FM - Θεσσαλονίκη" tvg-logo="http://live24.gr/resrc/styles/custom-popups/panorama/images/logo.jpg",Πανόραμα 98.4 FM - Θεσσαλονίκη
 http://netradio.live24.gr/panorama984
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Party FM 104 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5fe9c5d4-e937-4423-95d5-ffa7af87e905.jpg",Party FM 104 - Αθήνα
