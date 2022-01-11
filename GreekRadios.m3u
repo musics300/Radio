@@ -13,7 +13,7 @@ http://176.31.120.166:6404
 https://stream.radiojar.com/cthtwxk5yvduv
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="EN LEYKO 87.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e4abbfeb-d333-48ce-911e-753154aa7bd8.jpg",EN LEYKO 87.7 - Αθήνα
 http://ample-06.radiojar.com/enlefko877
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Feel Good Radio 104.9 - Ρόδος" tvg-logo="https://feelgoodradio.gr/wp-content/uploads/2021/04/feelgood.png",Feel Good Radio 104.9 - Ρόδος
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Feel Good Radio 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d5708a4c-acc4-4fea-ab65-9d842343cbf9.jpg",Feel Good Radio 104.9 - Ρόδος
 https://radiocp.from-dc.com:1515/stream?_=1
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="FLY 104 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",FLY 104 - Θεσσαλονίκη
 https://eu9.fastcast4u.com/proxy/nicper00?mp=/1
@@ -39,16 +39,16 @@ http://loveradio.live24.gr/loveradio-1000
 http://mediaserver.mad.tv:8000/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="More 103 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/1577ea9e-abe6-4d5c-9ef6-428cd43c0a66.png",More 103 - Θεσσαλονίκη
 http://eco.onestreaming.com:8041
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="http://www.music892.gr/wp-content/uploads/2017/09/LOGOMUSIC-small.png",Music 89.2 - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="https://www.music892.gr/wp-content/uploads/2020/08/thenewlogo-293x300.png",Music 89.2 - Αθήνα
 http://stream.radiojar.com:80/k0hua7u1yk5tv
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nostos 100.6 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/43d052f9-62c3-4f26-8d41-ba96a60566bb.png",Nostos 100.6 FM - Αθήνα
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nostos 100.6 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e2db1653-69f0-4ee8-8c62-6f852e5681be.png",Nostos 100.6 FM - Αθήνα
 https://neos.win:37878/stream
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="NRG Power Radio 89.5 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ca14a0cb-4ecf-401c-9cb5-c48b7582d2e2.gif",NRG Power Radio 89.5 - Κοζάνη
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="NRG Radio 89.5 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/8921765f-da6f-4a5e-88fb-8951d9ba27de.jpg",NRG Radio 89.5 - Κοζάνη
 http://i4.streams.ovh:8078
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="OFF Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/2042d47e-7003-42c5-bbde-8b9507ec4b54.png",OFF Radio - Θεσσαλονίκη
-http://46.28.53.118:7062/stream
+https://s3.yesstreaming.net:17062/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Pepper 96.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/pepper/pepper-115x115.jpg",Pepper 96.6 - Αθήνα
-http://pepper966.live24.gr/pepperorigin
+http://pepper966.live24.gr/pepper9660
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Plus Radio 102.6 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/612fea9f-cad5-42c8-a333-fddc6ab84613.png",Plus Radio 102.6 - Θεσσαλονίκη
 http://eco.onestreaming.com:8039
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio1 88 FM - Ρόδος" tvg-logo="http://www.radio1.gr/images/template/logo.png",Radio1 88 FM - Ρόδος
@@ -57,6 +57,8 @@ http://www.111.gr:8000
 http://solid1.streamupsolutions.com:11074/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rainbow 89 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/6a29d644-eaca-4282-89b1-468d4504cf65.png",Rainbow 89 FM - Θεσσαλονίκη
 http://62.212.82.197:8000/;
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rebel 105.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/df9c5a5d-a3c9-4e93-a193-e5177d0252dd.png",Rebel 105.2 - Αθήνα
+http://netradio.live24.gr/rebel1052
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RED 96.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f5c67a61-a790-4005-9cbe-f365509670fe.png",RED 96.3 - Αθήνα
 http://stream.radiojar.com:80/redfm963
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock FM 96.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fee95347-f0eb-4299-9edd-9d9b42ee23f6.png",Rock FM 96.9 - Αθήνα
@@ -70,7 +72,7 @@ http://radio.sierafm.gr:55469/Sierafm
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="SLAM 101.5 - Μυτιλήνη" tvg-logo="http://slam.gr/Images/SLAM_MAINLOGO.jpg",SLAM 101.5 - Μυτιλήνη
 http://eco.onestreaming.com:8550/;
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="V 91.1 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c50c1f31-a8e6-4f86-8602-ad2211478791.png",V 91.1 FM - Θεσσαλονίκη
-http://176.9.184.196:8177/stream
+https://cast5.magicstreams.gr:2200/sc/vfm/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/88abcc46-05f7-4692-9cc0-50e14b761fee.png",Yes Radio 91.2 - Πάτρα
 http://5.9.17.142:8024
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="You FM 100.1 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/2eab7eda-5095-4900-a14c-a97e3ef84d15.png",You FM 100.1 - Πάτρα
