@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="1055 Rock 105.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/200d45ee-9c83-47b1-ac59-3aeeafbb7e41.jpg",1055 Rock 105.5 - Θεσσαλονίκη
 http://radio.1055rock.gr:30000/1055
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Aμβρακία FM 91.9 - Άρτα" tvg-logo="http://resources.live24.gr/resources/images/stations/865c2760-9389-4879-b634-f9ac091ae511.jpg",Aμβρακία FM 91.9 - Άρτα
+https://ice.streams.ovh:1195/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens DeeJay 95.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/753b8245-44d6-4bed-bd67-43d113c70845.png",Athens DeeJay 95.2 - Αθήνα
 http://94.23.0.114:41972
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens Voice 102.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/611cb7f6-dd39-4e32-8204-0c6df17a6105.png",Athens Voice 102.5 - Αθήνα
