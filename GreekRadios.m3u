@@ -79,6 +79,8 @@ https://cast5.magicstreams.gr:2200/sc/vfm/stream
 http://5.9.17.142:8024
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="You FM 100.1 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/2eab7eda-5095-4900-a14c-a97e3ef84d15.png",You FM 100.1 - Πάτρα
 http://www.youfmradio.gr:8880/stream
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Zeppelin 106.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/1e92d193-695c-4866-ac67-fe9057c584bc.png",Zeppelin 106.7 - Αθήνα
+https://radiostreaming.ert.gr/ert-zeppelin
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="ZOO RADIO 90.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/90ece538-7c04-4e05-819e-af886671cfef.png",ZOO RADIO 90.8 - Θεσσαλονίκη
 http://s10.voscast.com:9940/;
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Best FM 103.1 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/9e8d707f-9378-413c-b746-c450e047a1a6.jpg",Best FM 103.1 - Ρόδος
@@ -103,7 +105,7 @@ http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία FM 99.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/b527c83e-c3fc-4de6-86f2-860254db65fd.png",Μελωδία FM 99.2 - Αθήνα
 https://stream.radiojar.com/8du64725e3quv
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 103.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/0a91a17c-bd3c-4ff6-9b9a-01d29b611b6f.png",Μελωδία Ρόδου 104.9 - Ρόδος
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 103.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/2c234fed-8856-4146-954d-766fc1d94748.jpg",Μελωδία Ρόδου 103.7 - Ρόδος
 http://live3.istoikona.com:8183/stream
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μέντα 88 FM - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/menta/menta.png",Μέντα 88 FM - Αθήνα
 http://stream.radiojar.com/menta.aac?1457987195
@@ -113,7 +115,7 @@ http://netradio.live24.gr:80/mousikos986
 http://streaming.myradio1046.fm/myradio1046
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Πανόραμα 98.4 FM - Θεσσαλονίκη" tvg-logo="http://live24.gr/resrc/styles/custom-popups/panorama/images/logo.jpg",Πανόραμα 98.4 FM - Θεσσαλονίκη
 http://netradio.live24.gr/panorama984
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Party FM 104 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5fe9c5d4-e937-4423-95d5-ffa7af87e905.jpg",Party FM 104 - Αθήνα
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Party FM 104 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/57597f4b-478f-4e66-8752-680b5cc3ca1d.png",Party FM 104 - Αθήνα
 https://radio.streamings.gr:9006/stream?1572449650982
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο 1 99 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/22ca2fd7-6978-425c-96af-0345d0c6515a.png",Ράδιο 1 99 FM - Θεσσαλονίκη
 http://62.212.82.208:8000/;
@@ -137,9 +139,9 @@ http://sokfm.lalala.gr:8000/;listen.pls'
 http://netradio.live24.gr/tranzistor1003thess
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Αθήνα 98.4 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/10138d0b-ce3f-4eee-8f8c-11ea5b92500e.jpg",Αθήνα 98.4 - Αθήνα
 http://athina984.live24.gr/athina984
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 98.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5bda5e63-60e6-4740-b11f-bf38bea7cb4e.png",Alpha 98.9 - Αθήνα
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 98.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/43323e4d-ef2d-46ff-97e3-344104a6c1ca.png",Alpha 98.9 - Αθήνα
 https://n07.radiojar.com/xcdg6yggzfeuv?rj-ttl=5&rj-tok=AAABdtfr9qcAi6XL2aOmFvsiBA
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 96.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c0be7e8c-6831-4d2a-873e-e846abd72468.jpg",Alpha 96.5 - Θεσσαλονίκη
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 96.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ec2034aa-db5c-4081-9d98-3d688decf59c.png",Alpha 96.5 - Θεσσαλονίκη
 https://streamingv2.shoutcast.com/alpha-965
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ANT1 Πάτρας - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/18ff2dc5-f297-4a04-a3fd-e2217a20708c.png",ANT1 Πάτρας - Πάτρα
 http://ant1patra.live24.gr/ant1patra1053
@@ -149,11 +151,11 @@ https://stream.webmonster.gr/artfm906
 http://radio.lancom.gr:8012/stream5
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Ελλάδα FM 94.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/c67e30a9-22a1-43fb-a168-8e94d01b7e4a.jpg",Ελλάδα FM 94.3 - Αθήνα
 http://stream.ellada943.gr:10198/;listen.pls
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 1 105.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/35fd37f4-fbe3-492f-a1ae-e3f1bdf46a00.png",ΕΡΑ 1 105.8 - Αθήνα
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 1 105.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/92fd1eb5-deee-45d1-8743-0617108e36c0.png",ΕΡΑ 1 105.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-proto
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 2 103.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/8ad58f66-5fa0-4053-84fa-debe26f7b07d.jpg",ΕΡΑ 2 103.7 - Αθήνα
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 2 103.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/ce59fde0-c321-454b-beb6-27cfd9d30361.png",ΕΡΑ 2 103.7 - Αθήνα
 http://radiostreaming.ert.gr/ert-deftero
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 3 90.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/7603b6bf-ad5f-49f8-9824-ab0863bc340b.jpg",ΕΡΑ 3 90.9 - Αθήνα
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 3 90.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/36ba575d-4a12-4962-903a-7645055cd059.jpg",ΕΡΑ 3 90.9 - Αθήνα
 http://radiostreaming.ert.gr/ert-trito
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΤ3 958 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/fce3850c-2881-4c1d-87e0-dc3e0e72888e.gif",ΕΡΤ3 958 - Θεσσαλονίκη
 http://radiostreaming.ert.gr/ert-958fm
@@ -171,7 +173,7 @@ http://207.154.248.204:8009/stream
 https://live.fm100.gr/shoutcast/fm100
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Focus FM 103.6 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/226fbd60-24ce-41ec-a81d-cf3aa63d5771.png",Focus FM 103.6 - Θεσσαλονίκη
 http://ice.greekstream.net/focusfm
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Κόσμος 93.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/4615448a-05c3-46e6-9575-32a859c7d122.png",Κόσμος 93.6 - Αθήνα
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Κόσμος 93.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/ab128af1-cf7f-48bc-9f9d-d0eb41229c06.png",Κόσμος 93.6 - Αθήνα
 http://radiostreaming.ert.gr/ert-kosmos
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Max FM 93.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/d7c74632-f167-4c91-a722-4492c2d2b7ce.png",Max FM 93.4 - Πάτρα
 http://n05.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABfoLoVhwAxSDRhEKCdAEA_w
@@ -211,15 +213,15 @@ http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
 http://148.251.179.119:8000/stream
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Στο Κόκκινο 105.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/44721459-b22a-475a-abbf-abbe33592728.png",Στο Κόκκινο 105.5 - Αθήνα
 http://stream.radiojar.com/kokkino-ath.mp3
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Φωνή της Ελλάδας - Αθήνα" tvg-logo="http://greektv.pbworks.com/w/file/fetch/97228788/Voice_Of_Greece.png",Φωνή της Ελλάδας - Αθήνα
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Φωνή της Ελλάδας - Αθήνα" tvg-logo="https://webradio.ert.gr/wp-content/uploads/2016/06/VoiceOgGreece.png",Φωνή της Ελλάδας - Αθήνα
 http://radiostreaming.ert.gr/ert-voiceofgreece
-#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="EPA σπορ 101.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f517e1da-2fc0-4452-8cd9-cb5b09fcb0ff.jpg",EPA σπορ 101.8 - Αθήνα
+#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="EPA σπορ 101.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/49821270-1155-47f0-bc02-cc5f8a584ad8.png",EPA σπορ 101.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Libero 107.4 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/9ddb173b-38b6-4a4a-8ce4-c92447bb8265.png",Libero 107.4 - Θεσσαλονίκη
 https://radio.libero.fm:10750/live
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Metropolis 95.5 Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/73fc95ae-ab99-4b2d-8fa3-e0310ca554dd.png",Metropolis 95.5 Θεσσαλονίκη
 http://metropolis.live24.gr/metropolis955thess
-#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Over FM 104.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/05882f35-a5d6-4b1a-8c6b-3eee44707d06.jpg",Over FM 104.9 - Αθήνα
+#EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Over FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/05882f35-a5d6-4b1a-8c6b-3eee44707d06.jpg",Over FM 104.9 - Αθήνα
 http://netradio.live24.gr/overfm-internet
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Pressing 90.1 Λάρισα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSia7ogvekqvW-xPsdKjjeuROKe4gjsi1GHGg&usqp=CAU",Pressing 90.1 - Λάρισα
 http://s4.onweb.gr:8840/;
