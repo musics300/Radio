@@ -146,9 +146,9 @@ https://streamingv2.shoutcast.com/alpha-965
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ANT1 Πάτρας - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/18ff2dc5-f297-4a04-a3fd-e2217a20708c.png",ANT1 Πάτρας - Πάτρα
 http://ant1patra.live24.gr/ant1patra1053
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΑΡΤ FM 90.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/db0877cd-8c08-46b4-9bda-8234f3e2481f.png",ΑΡΤ FM 90.6 - Αθήνα
-https://stream.webmonster.gr/artfm906
+https://cast5.magicstreams.gr/ic/artfm/stream
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="City International 106.1 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/e669f256-9fd7-43cf-b9c8-4c489324e2c2.png",City International 106.1 - Θεσσαλονίκη
-http://radio.lancom.gr:8012/stream5
+http://radio.lancom.gr:8014/stream6
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Ελλάδα FM 94.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/c67e30a9-22a1-43fb-a168-8e94d01b7e4a.jpg",Ελλάδα FM 94.3 - Αθήνα
 http://stream.ellada943.gr:10198/;listen.pls
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 1 105.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/92fd1eb5-deee-45d1-8743-0617108e36c0.png",ΕΡΑ 1 105.8 - Αθήνα
@@ -167,16 +167,12 @@ http://radiostreaming.ert.gr:80/ert-kozani
 https://radiostreaming.ert.gr/ert-rodos
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ Πατρών 92.5 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/ab119283-0144-48e1-a0b3-67b5dfe38593.png",ΕΡΑ Πατρών 92.5 - Πάτρα
 http://radiostreaming.ert.gr/ert-patra
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Flash 99.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/60cf6179-d234-4658-8a8c-f28c305ea731.jpg",Flash 99.4 - Πάτρα
-http://207.154.248.204:8009/stream
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="FM 100 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c95bfa47-b7ce-480d-b89d-ca1cc4e6528d.png",FM 100 - Θεσσαλονίκη
 https://live.fm100.gr/shoutcast/fm100
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Focus FM 103.6 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/226fbd60-24ce-41ec-a81d-cf3aa63d5771.png",Focus FM 103.6 - Θεσσαλονίκη
-http://ice.greekstream.net/focusfm
+https://ice.greekstream.net/focusfm
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Κόσμος 93.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/ab128af1-cf7f-48bc-9f9d-d0eb41229c06.png",Κόσμος 93.6 - Αθήνα
 http://radiostreaming.ert.gr/ert-kosmos
-#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Max FM 93.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/d7c74632-f167-4c91-a722-4492c2d2b7ce.png",Max FM 93.4 - Πάτρα
-http://n05.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABfoLoVhwAxSDRhEKCdAEA_w
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 - Ρόδος
 http://i.streams.ovh:9331/stream
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 Web TV - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 Web TV - Ρόδος
@@ -210,11 +206,11 @@ http://i.streams.ovh:9519/;listen.pls
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Sky Ρόδος 100 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/8daa170f-383f-4e38-a45a-5bd66b7b4ba1.png",Sky Ρόδος 100 - Ρόδος
 http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Status FM 107.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/3753356a-ebb0-4ba6-b5b7-633ffce756c1.jpg",Status FM 107.7 - Θεσσαλονίκη
-http://148.251.179.119:8000/stream
+https://loki.mental-media.gr/proxy/statusf1?mp=/stream:8000/;stream/1
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Στο Κόκκινο 105.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/44721459-b22a-475a-abbf-abbe33592728.png",Στο Κόκκινο 105.5 - Αθήνα
 http://stream.radiojar.com/kokkino-ath.mp3
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Φωνή της Ελλάδας - Αθήνα" tvg-logo="https://webradio.ert.gr/wp-content/uploads/2016/06/VoiceOgGreece.png",Φωνή της Ελλάδας - Αθήνα
-http://radiostreaming.ert.gr/ert-voiceofgreece
+https://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="EPA σπορ 101.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/49821270-1155-47f0-bc02-cc5f8a584ad8.png",EPA σπορ 101.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:-0 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Libero 107.4 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/9ddb173b-38b6-4a4a-8ce4-c92447bb8265.png",Libero 107.4 - Θεσσαλονίκη
