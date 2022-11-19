@@ -259,8 +259,6 @@ http://ice.onestreaming.com/athensparty
 http://s4.onweb.gr:8484/stream.mp3
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Classic Radio Greece" tvg-logo="http://resources.live24.gr/resources/images/stations/66571b2e-aee0-423b-ac20-bd15462b0350.png",Classic Radio Greece
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Crash Radio" tvg-logo="https://crashonline.gr/wp-content/uploads/2021/01/radio-400x208.jpg",Crash Radio
-http://n03.radiojar.com/rbx9n33vdg0uv?1611512776764=&rj-tok=AAABdzWuqk4AoqyZqps80JFznw&rj-ttl=5
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Diamond Web Radio - Ρόδος" tvg-logo="https://cdn.simplesite.com/i/c7/87/286541533836576711/i286541539357773886._szw2560h1600_.jpg",Diamond Web Radio - Ρόδος
 http://n0c.radiojar.com/ws24by435bhvv?rj-ttl=5&rj-tok=AAABfofPYgMAx12RgbvCKbKqfg
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Disco FM" tvg-logo="http://resources.live24.gr/resources/images/stations/6c457cf0-ce85-43a9-9a5c-834b2ccbc4de.png",Disco FM
@@ -276,7 +274,7 @@ http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio
 https://neos.win:37930/stream
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Πρώτο Ραδιόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/3b44c6c9-149a-4ab7-a7c3-465235c446d2.png",Πρώτο Ραδιόφωνο
-http://n08.radiojar.com/zgpr6b3v6k8uv?rj-ttl=5&rj-tok=AAABd_gmo-cAjNtw1dCt4UzN3A
+http://n09.radiojar.com/s8k21fnkgfhvv?rj-ttl=5&rj-tok=AAABhJEIt4cAUgXqgzndex1YIg
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
 http://radiogold.live24.gr:80/radiogold
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ράδιο ΜέΡΑ" tvg-logo="https://mera25.gr/wp-content/uploads/2021/01/SLIDER_radio_launch-1-2-768x429.jpg",Ράδιο ΜέΡΑ
@@ -284,7 +282,7 @@ https://uk1.streamingpulse.com/ssl/RadioMera
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
 http://netradio.live24.gr/republicthess
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ρυθμός στο Κασετόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/aa82dcb8-bd05-4720-a4c9-6fe99ae9833f.png",Ρυθμός Κασετόφωνο
-https://stream.radiojar.com/afg1g3aayvduv.mp3
+https://stream.rcs.revma.com/ff4abx8q4a0uv?direct=false
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ρυθμός Νon Stop Mix" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1616426140/brand_manager/stations/a0ayi4emb5b3yyby0m0r.png",Ρυθμός Νon Stop Mix
 https://stream.rcs.revma.com/pg5mvxz71k8uv?direct=true
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Σαλονικιός Ράδιο - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο - Θεσσαλονίκη
