@@ -245,6 +245,8 @@ https://impradio.bytemasters.gr/8002/stream
 http://8.38.78.173:8156/1?1609601322297
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
 http://eu1.fastcast4u.com:9326/stream
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="7000 FM" tvg-logo="https://7000fm.gr/images/7000fm-og-image.jpg",7000 FM
+https://stream.7000fm.gr/radio/8000/radio.mp3
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="80sMania Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",80sMania Radio
 http://151.80.44.127:8048/;
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="90s Heaven Web Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b2c23b2c-1d52-422c-8b84-f2cb172e4a7c.jpg",90s Heaven Web Radio
