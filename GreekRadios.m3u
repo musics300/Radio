@@ -107,6 +107,8 @@ http://sc.greekstream.net/;.mp3
 https://eco.onestreaming.com:18812/stream
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Κρήτη FM 87.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fbaef4b4-78f4-4cba-b934-2c55e8e3ecd6.jpg",Κρήτη FM 87.5 - Αθήνα
 http://31.177.57.53:8062/stream
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Λαικός FM 107.1 - Πύργος" tvg-logo="http://resources.live24.gr/resources/images/stations/acc711d4-34fc-4e3c-a272-13f6adc31035.jpg",Λαικός FM 107.1 - Πύργος
+https://shoutcast.k-planet.eu/8056/stream;
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Λάμψη FM 92.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/250e8f83-68ab-41cb-b951-ae937111d673.png",Λάμψη FM 92.3 - Αθήνα
 http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/chunks.m3u8
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Love Radio 97.5 - Αθήνα" tvg-logo="https://www.loveradio.gr/images/love_logos.png",Love Radio 97.5 - Αθήνα
@@ -191,6 +193,8 @@ http://radiostreaming.ert.gr/ert-kosmos
 http://i.streams.ovh:9331/stream
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 Web TV - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 Web TV - Ρόδος
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="ΟΡΤ 92.3 - Πύργος" tvg-logo="http://resources.live24.gr/resources/images/stations/270119dd-bd10-4118-9000-1b922d974561.jpg",ΟΡΤ 92.3 - Πύργος
+http://s7.onweb.gr:8546/;
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Παραπολιτικά FM 90.1 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/0163c59b-62d4-46e4-93e7-71916c770e91.png",Παραπολιτικά FM 90.1 - Αθήνα
 http://netradio.live24.gr/athinaradio
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Πρακτορείο 104.9 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/81f02cbe-bbc5-46bd-8076-a2e396782611.png",Πρακτορείο 104.9 - Θεσσαλονίκη
@@ -243,12 +247,14 @@ http://live3.istoikona.com:8376/
 https://ice.greekstream.net/yellow
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Εκκλησία Της Ελλάδος 89.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/963bef80-b381-4de6-9612-ea3a283c64e8.jpg",Εκκλησία Της Ελλάδος 89.5 - Αθήνα
 http://85.10.206.222:8002
+#EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Ιερά Μονή Ηλείας 107.6 - Πύργος" tvg-logo="http://resources.live24.gr/resources/images/stations/ab3e697c-a656-41be-9868-da23da2db73c.png",Ιερά Μονή Ηλείας 107.6 - Πύργος
+http://radio.lts-group.eu:52390/ANS'
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/4a5752c9-10b7-4d43-b95a-1efe2ece5b6b.png",Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα
 http://eco.onestreaming.com:8468/;listen.pls'
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Λυδία η Φιλιππησία 94.2 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/32467e44-f554-4493-9c40-64bc44e070fb.png",Λυδία η Φιλιππησία 94.2 - Θεσσαλονίκη
 http://eu1.radiolydia.com:1086/stream
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Ορθοδοξία και Παράδοση 103 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee71b5de-129c-44b3-9f98-95f45d8591ee.jpg",Ορθοδοξία και Παράδοση 103 - Κοζάνη
-http://radio.lts-group.eu:52390/ANS'
+http://s6.onweb.gr:8094/;
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/221df493-b08c-46e1-9975-51aedf6d7809.jpg",Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη
 http://www.gwebstream.net:8008/stream
 #EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Πειραική Εκκλησία 91.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5a6f217c-1ba7-4c76-ba33-b7a9bd710fd4.jpg",Πειραική Εκκλησία 91.2 - Αθήνα
