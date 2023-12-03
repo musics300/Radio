@@ -5,8 +5,6 @@ http://radio.1055rock.gr:30000/1055
 https://ice.streams.ovh:1195/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens DeeJay 95.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/753b8245-44d6-4bed-bd67-43d113c70845.png",Athens DeeJay 95.2 - Αθήνα
 http://netradio.live24.gr/athensdeejay
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens Voice 102.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/611cb7f6-dd39-4e32-8204-0c6df17a6105.png",Athens Voice 102.5 - Αθήνα
-http://nitro.live24.gr/nitro4555
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Best Radio 92.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/best/best926.jpg",Best Radio 92.6 - Αθήνα
 http://best.live24.gr/best1222
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Diva 91.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg",Diva 91.6 - Κοζάνη
@@ -79,6 +77,8 @@ http://tachyon.shoutca.st:8594/;listen.pls
 http://radio.sierafm.gr:55469/Sierafm
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="SLAM 101.5 - Μυτιλήνη" tvg-logo="http://slam.gr/Images/SLAM_MAINLOGO.jpg",SLAM 101.5 - Μυτιλήνη
 http://eco.onestreaming.com:8550/;
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Voice 102.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/611cb7f6-dd39-4e32-8204-0c6df17a6105.png",Voice 102.5 - Αθήνα
+http://nitro.live24.gr/nitro4555
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Vox 103.3 - Πύργος" tvg-logo="http://resources.live24.gr/resources/images/stations/0245be50-276f-4498-a97b-5deba97bb694.png",Vox 103.3 - Πύργος
 http://i4.streams.ovh:8202/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/88abcc46-05f7-4692-9cc0-50e14b761fee.png",Yes Radio 91.2 - Πάτρα
