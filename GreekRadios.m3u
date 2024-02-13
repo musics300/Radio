@@ -137,10 +137,12 @@ http://eco.onestreaming.com:8536/;listen.pls'
 https://eco.onestreaming.com/proxy/lyxnari/stream
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο Μέλι 106.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ec2e6dac-580e-4038-b54a-8e95c477b1ed.jpg",Ράδιο Μέλι 106.6 - Κοζάνη
 https://i3.streams.ovh:12064/live
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 94.9 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0D-a1cEZk0_b9aHXGUacyMa8mwoc8IW4dA&usqp=CAU",Ρυθμός 94.9 - Αθήνα
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 94.9 - Αθήνα" tvg-logo="https://cdn.e-radio.gr/logos/gr/500/rythmos2022.png",Ρυθμός 94.9 - Αθήνα
 https://stream.rcs.revma.com/0btynq5r4a0uv.mp3?direct=true
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 104.4 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/eca90f55-d2bc-4750-bda9-28c7a4a09dda.png",Ρυθμός 104.4 - Κοζάνη
 https://i4.streams.ovh/ic/rythmos/stream
+#EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 94.5 - Ρόδος" tvg-logo="https://cdn-profiles.tunein.com/s103562/images/logod.jpg?t=636870313260000000",Ρυθμός 94.5 - Ρόδος
+https://netradio.live24.gr/rythmos945rodos
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρόδος FM 90.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/952ef0d2-ed2f-4a60-af70-b36bf860726c.jpg",Ρόδος FM 90.7 - Ρόδος
 http://i.streams.ovh:9327/stream
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Siera FM 105.3 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/26ba748b-9fa2-402e-ae46-0f8b523b39f5.png",Siera FM 105.3 - Κοζάνη
@@ -205,6 +207,8 @@ http://s3.onweb.gr:8436/
 http://radiogamma.live24.gr/radiogamma
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Ράδιο Θεσσαλονίκη 94.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/f075bc0e-6cac-4f3b-abdd-6236d03e71af.png",Ράδιο Θεσσαλονίκη 94.5 - Θεσσαλονίκη
 http://eu7.fastcast4u.com:6156/;
+#EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Ράδιο Κόσμος 93.8 - Ρόδος" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRBNXtzGepmLNbJ6GAQAMGc0Kdo-huhd-LVlg9Vrw=s900-c-k-c0x00ffffff-no-rj",Ράδιο Κόσμος 93.8 - Ρόδος
+https://netradio.live24.gr/kosmos938rodos
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Real FM 97.8 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-_A3uNnudDmMHzalxhVgVNJ3R_wefTVqa-_8Pb8GzkTf6Wud8g&s",Real FM 97.8 - Αθήνα
 http://realfm2.live24.gr:80/realfm
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Real FM 107.1 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/1e003776-8316-4860-be64-bab7caf188a1.png",Real FM 107.1 - Θεσσαλονίκη
@@ -301,6 +305,8 @@ http://hotfm.live24.gr:80/hotfm
 https://politismedia-sec.live24.gr/streameekasetta
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio
 https://neos.win:37930/stream
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="PAO Radio" tvg-logo="https://paoradio.gr/wp-content/uploads/2023/11/cropped-PAO_Radio_Social-01-01.png",PAO Radio
+https://s32.radiolize.com/radio/8090/radio.mp3
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Πρώτο Ραδιόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/3b44c6c9-149a-4ab7-a7c3-465235c446d2.png",Πρώτο Ραδιόφωνο
 http://n09.radiojar.com/s8k21fnkgfhvv?rj-ttl=5&rj-tok=AAABhJEIt4cAUgXqgzndex1YIg
 #EXTINF:-0 group-title="WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
