@@ -108,7 +108,7 @@ https://stream.rcs.revma.com/n7d6z9ez1duvv
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Κοσμοράδιο 95.1 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/e3cb9aad-de0a-46f5-997b-b4f33a91ab73.png",Κοσμοράδιο 95.1 - Θεσσαλονίκη
 https://eco.onestreaming.com:18812/stream
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Κρήτη FM 87.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fbaef4b4-78f4-4cba-b934-2c55e8e3ecd6.jpg",Κρήτη FM 87.5 - Αθήνα
-http://31.177.57.53:8062/stream
+https://tls-chrome.live24.gr/1361?http://s3.onweb.gr:8878/;
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Λαικός FM 107.1 - Πύργος" tvg-logo="http://resources.live24.gr/resources/images/stations/acc711d4-34fc-4e3c-a272-13f6adc31035.jpg",Λαικός FM 107.1 - Πύργος
 https://shoutcast.k-planet.eu/8056/stream;
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Λάμψη FM 92.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/250e8f83-68ab-41cb-b951-ae937111d673.png",Λάμψη FM 92.3 - Αθήνα
@@ -152,8 +152,8 @@ http://n09.radiojar.com/819r8wupdrruv?1668885399=&rj-ttl=5&rj-tok=AAABh6Biyu0AAL
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Sfera 102.2 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/sfera/images/logo.png",Sfera 102.2 - Αθήνα
 http://sfera.live24.gr/sfera4132
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Σοκ FM 104.8 - Χαλκίδα" tvg-logo="http://resources.live24.gr/resources/images/stations/e6998f51-f775-4a5b-99a5-0406d855024e.png",Σοκ FM 104.8 - Χαλκίδα
-http://sokfm.lalala.gr:8000/;listen.pls'
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Τρανζίστορ 100.3 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/a3c860a2-db55-4b58-9b0d-9c3a24c8997f.jpg",Τρανζίστορ 100.3 - Θεσσαλονίκη
+https://n02.radiojar.com/zeqcyyvu48hvv?rand=112840&rj-tok=AAABjgYQZN0A96-HM29vlYY3gg&rj-ttl=5
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Τρανζίστορ 100.3 - Θεσσαλονίκη" tvg-logo="https://resources.live24.gr/resources/images/stations/12e25622-e83b-4c40-813c-c79a4e5e5824.png",Τρανζίστορ 100.3 - Θεσσαλονίκη
 http://netradio.live24.gr/tranzistor1003thess
 #EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Αθήνα 98.4 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/10138d0b-ce3f-4eee-8f8c-11ea5b92500e.jpg",Αθήνα 98.4 - Αθήνα
 http://athina984.live24.gr/athina984
