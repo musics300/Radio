@@ -68,9 +68,9 @@ http://netradio.live24.gr/rebel1052
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RED 96.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/f5c67a61-a790-4005-9cbe-f365509670fe.png",RED 96.3 - Αθήνα
 http://stream.radiojar.com:80/redfm963
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock FM 96.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fee95347-f0eb-4299-9edd-9d9b42ee23f6.png",Rock FM 96.9 - Αθήνα
-http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/chunks.m3u8
+https://az10.yesstreaming.net:8060/radio.mp3
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Rock Radio 104.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cbdce89d-dc5d-45cd-9b97-6ef014c134e2.png",Rock Radio 104.7 - Θεσσαλονίκη
-https://radio.hostchefs.net/proxy/rockradioice?mp=/stream
+https://s9.yesstreaming.net:2199/proxy/anyhowmo/stream
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="RSO 91.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/33705328-6c67-48e2-ba75-a385a317c175.png",RSO 91.7 - Θεσσαλονίκη
 http://tachyon.shoutca.st:8594/;listen.pls
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Siera FM 105.3 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/26ba748b-9fa2-402e-ae46-0f8b523b39f5.png",Siera FM 105.3 - Κοζάνη
@@ -85,7 +85,7 @@ http://i4.streams.ovh:8202/stream
 https://ams-pioneer02.dedicateware.com:1060/;listen.pls
 #EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Zeppelin 106.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/1e92d193-695c-4866-ac67-fe9057c584bc.png",Zeppelin 106.7 - Αθήνα
 https://radiostreaming.ert.gr/ert-zeppelin
-#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="ZOO RADIO 90.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/90ece538-7c04-4e05-819e-af886671cfef.png",ZOO RADIO 90.8 - Θεσσαλονίκη
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="ZOO RADIO 90.8 - Θεσσαλονίκη" tvg-logo="https://resources.live24.gr/resources/images/stations/fe26f041-be92-4ffd-a611-570bc126a6bc.jpg",ZOO RADIO 90.8 - Θεσσαλονίκη
 http://s10.voscast.com:9940/;
 #EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Aquarius FM 105.5 - Πύργος" tvg-logo="http://resources.live24.gr/resources/images/stations/405a8ad8-c7af-4191-8295-e12b48658dad.png",Aquarius FM 105.5 - Πύργος
 https://sh.onweb.gr:7011/stream
